@@ -2,11 +2,12 @@
 
 #### 呈现形式
 
-- 硬核新闻故事里的上下文、或关键点
+- **硬核新闻故事里的上下文、或关键点**
 
-中青报[《北京地铁是一个每天都在发生奇迹的地方》](https://mp.weixin.qq.com/s?__biz=MzA3NTc2NDY5MA==&mid=2653041384&idx=1&sn=71762c9c8eb0644ef9116033c40d6d3c&chksm=84bd1455b3ca9d43916e2285454d61799ee480d0e16eeb8319d7c154f09ffe737e9bdd5df49d&mpshare=1&scene=1&srcid=&pass_ticket=fKUfGHgeEKtpamITIOiVGm2Ildeihe6XLUB7%2FJSuNQPK61%2BM4XJHcjkTCqkjmkW6#rd)
+_中青报[《北京地铁是一个每天都在发生奇迹的地方》](https://mp.weixin.qq.com/s?__biz=MzA3NTc2NDY5MA==&mid=2653041384&idx=1&sn=71762c9c8eb0644ef9116033c40d6d3c&chksm=84bd1455b3ca9d43916e2285454d61799ee480d0e16eeb8319d7c154f09ffe737e9bdd5df49d&mpshare=1&scene=1&srcid=&pass_ticket=fKUfGHgeEKtpamITIOiVGm2Ildeihe6XLUB7%2FJSuNQPK61%2BM4XJHcjkTCqkjmkW6#rd)_
 
 ```markdown
+
 北京地铁每天都在发生让人意想不到的故事。有的地铁司机一天要喝11包咖啡，
 而这些人每天要重复960多次手势动作。一名巡道工每个月都会磨破5双棉袜，
 每年要检查12万个铁轨零件。早晚高峰时，车站广播员要把一句话重复1800多次。
@@ -30,12 +31,13 @@
 
 ```
 
-**- 静态、交互式图表**
+- **静态、交互式图表**
 
 
-**- 交互数据库**
-_Italic_ 
+- **交互数据库**
+
  ![Image](src)
+ 
  
 #### 数据调研
 
