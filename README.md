@@ -1,11 +1,8 @@
-#### 20190712-人大工作坊
+#### 题材选择
 
+#### 呈现形式
 
-##### 题材选择
-
-##### 呈现形式
-
-**- 硬核新闻故事里的上下文、或关键点**
+- 硬核新闻故事里的上下文、或关键点
 
 中青报[《北京地铁是一个每天都在发生奇迹的地方》](https://mp.weixin.qq.com/s?__biz=MzA3NTc2NDY5MA==&mid=2653041384&idx=1&sn=71762c9c8eb0644ef9116033c40d6d3c&chksm=84bd1455b3ca9d43916e2285454d61799ee480d0e16eeb8319d7c154f09ffe737e9bdd5df49d&mpshare=1&scene=1&srcid=&pass_ticket=fKUfGHgeEKtpamITIOiVGm2Ildeihe6XLUB7%2FJSuNQPK61%2BM4XJHcjkTCqkjmkW6#rd)
 
@@ -34,8 +31,11 @@
 ```
 
 **- 静态、交互式图表**
+
+
 **- 交互数据库**
 _Italic_ 
  ![Image](src)
-##### 数据调研
+ 
+#### 数据调研
 
