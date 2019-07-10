@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+### 20190712-人大工作坊
 
 You can use the [editor on GitHub](https://github.com/haoyuns/workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 题材选择
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+#### 呈现形式
+**- 硬核新闻故事里的上下文、或关键点**
+中青报[《北京地铁是一个每天都在发生奇迹的地方》](https://mp.weixin.qq.com/s?__biz=MzA3NTc2NDY5MA==&mid=2653041384&idx=1&sn=71762c9c8eb0644ef9116033c40d6d3c&chksm=84bd1455b3ca9d43916e2285454d61799ee480d0e16eeb8319d7c154f09ffe737e9bdd5df49d&mpshare=1&scene=1&srcid=&pass_ticket=fKUfGHgeEKtpamITIOiVGm2Ildeihe6XLUB7%2FJSuNQPK61%2BM4XJHcjkTCqkjmkW6#rd)
 ```markdown
-Syntax highlighted code block
+北京地铁每天都在发生让人意想不到的故事。有的地铁司机一天要喝11包咖啡，而这些人每天要重复960多次手势动作。一名巡道工每个月都会磨破5双棉袜，每年要检查12万个铁轨零件。早晚高峰时，车站广播员要把一句话重复1800多次。
 
-# Header 1
-## Header 2
-### Header 3
+平均每月都会有`20`多只鞋，`70`多个背包玩偶挂件掉落在西二旗站台下面的道床上。站务员曾在那里捡到一个装有`5`本房产证的公文包。
 
-- Bulleted
-- List
+已经沿着10号线，把金台夕照到分钟寺这截北京最繁华地段走了`630`多次的巡道工，却从来没有走进过头顶上的任何一栋建筑。
 
-1. Numbered
-2. List
+一家地铁站旁的便利店，每天接待的第一位顾客，永远都是地铁员工。
 
-**Bold** and _Italic_ and `Code` text
+北京运营着全世界最繁忙的地铁系统，仅地铁司机就超过`6000`名，相当于两所大型中学的人数规模。2017年共有`38.7`亿人次乘坐北京地铁，比同年全国铁路客运总运量都要多。
 
-[Link](url) and ![Image](src)
+这座城市几乎一年开通一条新线，只用了不到`15`年时间，地铁线路图就从“一圈一线”变成了现在的“电路板”，新开通的16号线每公里造价达到了`12`亿元。
+
+很多人每天都乘坐地铁，却对这个庞大的系统知之甚少，白天乘客不懂地铁夜里的黑，24小时它一刻都没停止过紧张的运行。
+
+
+
+ ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**- 静态、交互式图表**
+**- 交互数据库**
+_Italic_ 
 
-### Jekyll Themes
+#### 数据调研
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haoyuns/workshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
