@@ -53,9 +53,9 @@ ProPublica: [Dollars for Docs](https://projects.propublica.org/docdollars/)
 
 ### 工具选择
 
-- Raw [link](https://rawgraphs.io/)
-- DataWrapper [link](https://www.datawrapper.de/)
-- Hanabi [link](http://hanabi.data-viz.cn/index)
+- [Raw](https://rawgraphs.io/)
+- [DataWrapper](https://www.datawrapper.de/)
+- [Hanabi](http://hanabi.data-viz.cn/index)
 
 * * *
 ![Branching](https://haoyuns.github.io/hanabi.png)
