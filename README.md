@@ -33,25 +33,21 @@
 
 ```
 
-* * *
-回形针[中国的网盘为什么这么难用](https://www.bilibili.com/video/av58647793)，Vox [Why we really really really like repetition in music](https://www.youtube.com/watch?v=HzzmqUoQobc&list=WL&index=8&t=0s)
+  - 回形针[中国的网盘为什么这么难用](https://www.bilibili.com/video/av58647793)，
+  - Vox [Why we really really really like repetition in  music](https://www.youtube.com/watch?v=HzzmqUoQobc&list=WL&index=8&t=0s)
 
 
 - **_静态、交互式图表_**
-
-* * *
-[The Pudding](https://pudding.cool/), *The Economist* [Graphic Detail](https://www.economist.com/graphic-detail/)，案例集合网站 FlowingData
+  - [The Pudding](https://pudding.cool/)
+  - *The Economist*, [Graphic Detail](https://www.economist.com/graphic-detail/)
+  - 案例集合网站 FlowingData
 
 - **_交互数据库_**
-
-* * *
-ProPublica: [Dollars for Docs](https://projects.propublica.org/docdollars/)
+  - ProPublica: [Dollars for Docs](https://projects.propublica.org/docdollars/)
 
 - **_无法归类的那些_**
-
-* * *
-看见算法 [15 Algorithms in 6 mintues](https://www.youtube.com/watch?v=kPRA0W1kECg&feature=youtu.be)
-看见音乐 [Giant Steps 爵士名曲“巨人脚步”可视化](https://www.youtube.com/watch?v=rh6WTAHKYTc&list=WL&index=4&t=0s)
+  - 看见算法 [15 Algorithms in 6 mintues](https://www.youtube.com/watch?v=kPRA0W1kECg&feature=youtu.be)
+  - 看见音乐 [Giant Steps 爵士名曲“巨人脚步”可视化](https://www.youtube.com/watch?v=rh6WTAHKYTc&list=WL&index=4&t=0s)
 
 ### 数据调研
 - 科学上网，`搜索引擎`，搜索词，条件限定，`搜索语言`
@@ -65,7 +61,7 @@ ProPublica: [Dollars for Docs](https://projects.propublica.org/docdollars/)
     - Microsoft buildings
     - Uber
   - 开源数据、论坛：Kaggle, Reddit, Tushare
-  - 邮件订阅：[Data is Plural]()
+  - 邮件订阅：[Data is Plural](https://tinyletter.com/data-is-plural/archive)
 - 
 
 ### 工具选择
