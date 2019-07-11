@@ -4,6 +4,7 @@
 
 * * *
 NASA "Earth at Night" vs 向帆老师的[项目](https://mp.weixin.qq.com/s?__biz=MjM5NDY0NjgxNA==&mid=2652492578&idx=1&sn=55251fb7363048a0a4cfcd56415290c7&chksm=bd69ed538a1e644534f39f4e902182b341ff722595ab088c5ea29289337b1a68ac132bcab5bb&mpshare=1&scene=1&srcid=&pass_ticket=79dDz%2FHMVwXbk2mm7ugsvBotCrnVVa1%2BWMtgQQt2uSI892TiEEaXDq0Fav%2BYNvtm#rd)
+
 ![Branching](ex.png)
 
 ### 呈现形式
@@ -40,13 +41,12 @@ NASA "Earth at Night" vs 向帆老师的[项目](https://mp.weixin.qq.com/s?__bi
 
 Vox [“Why we really really really like repetition in  music”](https://www.youtube.com/watch?v=HzzmqUoQobc&list=WL&index=8&t=0s)
 
+![Branching](ex2.png)
 
 - **_静态、交互式图表_**
   - [The Pudding](https://pudding.cool/)
   - *The Economist*, [Graphic Detail](https://www.economist.com/graphic-detail/)
   - 案例集合网站 FlowingData
-
-![Branching](ex2.png)
 
 - **_交互数据库_**
   - ProPublica: [Dollars for Docs](https://projects.propublica.org/docdollars/)
