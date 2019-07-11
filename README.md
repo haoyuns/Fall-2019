@@ -4,7 +4,7 @@
 
 ### 呈现形式
  
-- **_硬核新闻故事里的上下文、或关键点_**
+- **_新闻故事里的上下文、或关键点_**
 
 * * *
 中青报[《北京地铁是一个每天都在发生奇迹的地方》](https://mp.weixin.qq.com/s?__biz=MzA3NTc2NDY5MA==&mid=2653041384&idx=1&sn=71762c9c8eb0644ef9116033c40d6d3c&chksm=84bd1455b3ca9d43916e2285454d61799ee480d0e16eeb8319d7c154f09ffe737e9bdd5df49d&mpshare=1&scene=1&srcid=&pass_ticket=fKUfGHgeEKtpamITIOiVGm2Ildeihe6XLUB7%2FJSuNQPK61%2BM4XJHcjkTCqkjmkW6#rd)
@@ -33,22 +33,39 @@
 
 ```
 
+* * *
+回形针[中国的网盘为什么这么难用](https://www.bilibili.com/video/av58647793)，Vox [Why we really really really like repetition in music](https://www.youtube.com/watch?v=HzzmqUoQobc&list=WL&index=8&t=0s)
 
 
 - **_静态、交互式图表_**
 
 * * *
+[The Pudding](https://pudding.cool/), *The Economist* [Graphic Detail](https://www.economist.com/graphic-detail/)，案例集合网站 FlowingData
 
 - **_交互数据库_**
 
 * * *
 ProPublica: [Dollars for Docs](https://projects.propublica.org/docdollars/)
 
+- **_无法归类的那些_**
+
+* * *
+看见算法 [15 Algorithms in 6 mintues](https://www.youtube.com/watch?v=kPRA0W1kECg&feature=youtu.be)
+看见音乐 [Giant Steps 爵士名曲“巨人脚步”可视化](https://www.youtube.com/watch?v=rh6WTAHKYTc&list=WL&index=4&t=0s)
 
 ### 数据调研
 - 科学上网，`搜索引擎`，搜索词，条件限定，`搜索语言`
-- 找数据的地方
-- 
+- 找数据的地方各式各样
+  - 政府：统计局、年鉴、部委文件等，`数据质量`
+  - 地理数据：NASA，研究所
+    - 全国行政区划查询 http://202.108.98.30/map
+    - OSM
+  - 商业公司
+    - Google doodle
+    - Microsoft buildings
+    - Uber
+  - 开源数据、论坛：Kaggle, Reddit, Tushare
+  - 邮件订阅：[Data is Plural]()
 - 
 
 ### 工具选择
