@@ -2,6 +2,9 @@
 - “趋势”和“例外”
 - “上帝视角”与“人性化”
 
+* * *
+![Branching](ex.png)
+
 ### 呈现形式
  
 - **_新闻故事里的上下文、或关键点_**
@@ -32,7 +35,7 @@
 
 ```
 
-回形针["中国的网盘为什么这么难用"](https://www.bilibili.com/video/av58647793)
+回形针[“中国的网盘为什么这么难用”](https://www.bilibili.com/video/av58647793)
 
 Vox [“Why we really really really like repetition in  music”](https://www.youtube.com/watch?v=HzzmqUoQobc&list=WL&index=8&t=0s)
 
@@ -41,6 +44,7 @@ Vox [“Why we really really really like repetition in  music”](https://www.yo
   - [The Pudding](https://pudding.cool/)
   - *The Economist*, [Graphic Detail](https://www.economist.com/graphic-detail/)
   - 案例集合网站 FlowingData
+![Branching](ex2.png)
 
 - **_交互数据库_**
   - ProPublica: [Dollars for Docs](https://projects.propublica.org/docdollars/)
@@ -53,16 +57,14 @@ Vox [“Why we really really really like repetition in  music”](https://www.yo
 - 科学上网，`搜索引擎`，搜索词，条件限定，`搜索语言`
 - 找数据的地方各式各样
   - 政府：统计局、年鉴、部委文件等，`数据质量`
-  - 地理数据：NASA，研究所
+  - 地理数据：NASA，研究所等
     - 全国行政区划查询 http://202.108.98.30/map
     - OSM
-  - 商业公司
-    - Google doodle
-    - Microsoft buildings
-    - Uber
-  - 开源数据、论坛：Kaggle, Reddit, Tushare
+  - 商业公司：Google, Microsoft, Uber, Yelp
+  - 开源数据、论坛：Kaggle, Reddit, [Tushare](tushare.org)
+  - 智库、研究机构
   - 邮件订阅：[Data is Plural](https://tinyletter.com/data-is-plural/archive)
-- 
+![Branching](ex3.png)
 
 ### 工具选择
 
