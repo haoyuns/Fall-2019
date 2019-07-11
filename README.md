@@ -65,7 +65,7 @@ Vox [“Why we really really really like repetition in  music”](https://www.yo
     - [全国行政区划查询](http://202.108.98.30/map)
     - OpenStreetMap
   - 商业公司：
-    - Google（Quick, Draw!数据,[文化如何影响你](https://qz.com/994486/the-way-you-draw-circles-says-a-lot-about-you/)）
+    - Google（Quick, Draw!数据，[Quartz：从画圈方式看文化对你的影响](https://qz.com/994486/the-way-you-draw-circles-says-a-lot-about-you/)）
     - Microsoft 全美建筑[数据](https://github.com/microsoft/USBuildingFootprints)
     - Uber
     - Yelp Data Challenge
