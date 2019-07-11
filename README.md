@@ -41,6 +41,8 @@ NASA "Earth at Night" vs 向帆老师的[项目](https://mp.weixin.qq.com/s?__bi
 
 Vox [“Why we really really really like repetition in  music”](https://www.youtube.com/watch?v=HzzmqUoQobc&list=WL&index=8&t=0s)
 
+* * *
+
 ![Branching](ex2.png)
 
 - **_静态、交互式图表_**
