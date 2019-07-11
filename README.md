@@ -3,6 +3,7 @@
 - “上帝视角”与“人性化”
 
 * * *
+NASA "Earth at Night" vs 向帆老师的[项目](https://mp.weixin.qq.com/s?__biz=MjM5NDY0NjgxNA==&mid=2652492578&idx=1&sn=55251fb7363048a0a4cfcd56415290c7&chksm=bd69ed538a1e644534f39f4e902182b341ff722595ab088c5ea29289337b1a68ac132bcab5bb&mpshare=1&scene=1&srcid=&pass_ticket=79dDz%2FHMVwXbk2mm7ugsvBotCrnVVa1%2BWMtgQQt2uSI892TiEEaXDq0Fav%2BYNvtm#rd)
 ![Branching](ex.png)
 
 ### 呈现形式
@@ -44,6 +45,7 @@ Vox [“Why we really really really like repetition in  music”](https://www.yo
   - [The Pudding](https://pudding.cool/)
   - *The Economist*, [Graphic Detail](https://www.economist.com/graphic-detail/)
   - 案例集合网站 FlowingData
+
 ![Branching](ex2.png)
 
 - **_交互数据库_**
@@ -57,13 +59,18 @@ Vox [“Why we really really really like repetition in  music”](https://www.yo
 - 科学上网，`搜索引擎`，搜索词，条件限定，`搜索语言`
 - 找数据的地方各式各样
   - 政府：统计局、年鉴、部委文件等，`数据质量`
-  - 地理数据：NASA，研究所等
-    - 全国行政区划查询 http://202.108.98.30/map
-    - OSM
-  - 商业公司：Google, Microsoft, Uber, Yelp
+  - 地理数据：NASA，Beijing City Lab等研究所
+    - [全国行政区划查询](http://202.108.98.30/map)
+    - OpenStreetMap
+  - 商业公司：
+    - Google（Quick, Draw!数据,[文化如何影响你](https://qz.com/994486/the-way-you-draw-circles-says-a-lot-about-you/)）
+    - Microsoft 全美建筑[数据](https://github.com/microsoft/USBuildingFootprints)
+    - Uber
+    - Yelp Data Challenge
   - 开源数据、论坛：Kaggle, Reddit, [Tushare](tushare.org)
   - 智库、研究机构
   - 邮件订阅：[Data is Plural](https://tinyletter.com/data-is-plural/archive)
+
 ![Branching](ex3.png)
 
 ### 工具选择
