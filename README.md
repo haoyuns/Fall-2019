@@ -5,8 +5,8 @@
   - 永远检查数据集的元数据（Metadata）
 - 个人数据的价值：[Dear Data](https://www.dear-data.com/theproject)
 - GitHub 及 Markdown
-  - GitHub Pages 主题列表：https://pages.github.com/themes/
-  - Markdown 基础：https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+  - GitHub Pages 主题选择：[https://pages.github.com/themes/](https://pages.github.com/themes/)
+  - Markdown 基础：[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 **作业（9月30日前提交）**
 1. 收集某个主题的个人数据，不限时间，规整为数据集
