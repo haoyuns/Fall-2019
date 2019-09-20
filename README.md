@@ -1,3 +1,21 @@
+## Week 1
+- 对数据的“背景调查”：Who, What, When, Where, Why, How?
+  - 不管发布机构有多权威，数据都是可质疑的
+  - 人工会不同程度地参与数据整合过程，难免偏差与错误：To err is human.
+  - 永远检查数据集的元数据（Metadata）
+- 个人数据的价值：[Dear Data](https://www.dear-data.com/theproject)
+- GitHub 及 Markdown
+  - GitHub Pages 主题列表：https://pages.github.com/themes/
+  - Markdown 基础：https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+**作业（9月30日前提交）**
+1. 收集某个主题的个人数据，不限时间，规整为数据集
+2. 参考 Dear Data 的表现方式，拓展想象力
+3. 以手绘的形式呈现第一步收集的数据（无所谓美感，能展现想法为主），纸张大小 ≥ 明信片
+4. 以 markdown 文档形式记录自己的上述过程操作或感想
+5. 在同一个 markdown 文档里回答：你认为日常生活中哪些数据是被搜集的？被谁搜集了？
+
+
 ### 课程目标
 - 锻炼信息获取、辨别及核实的能力
 - 锻炼数据处理及分析的能力
