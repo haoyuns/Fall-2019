@@ -2,6 +2,11 @@
 - 数据的类型
 
 **作业**
+**阅读**
+- [《什么是政府统计》](https://cosx.org/2019/08/what-is-gov-stats/)
+- [《电子表格中的数据整理》](https://cosx.org/2018/07/data-organization-in-spreadsheets/)
+
+* * *
 
 ## Week 1
 - 对数据的“背景调查”：Who, What, When, Where, Why, How?
@@ -20,6 +25,7 @@
 4. 以 markdown 文档形式记录自己的上述过程操作或感想
 5. 在同一个 markdown 文档里回答：你认为日常生活中哪些数据是被搜集的？被谁搜集了？
 
+* * *
  
 ## 课程目标
 - 锻炼信息获取、辨别及核实的能力
