@@ -1,3 +1,8 @@
+## Week 2
+- 数据的类型
+
+**作业**
+
 ## Week 1
 - 对数据的“背景调查”：Who, What, When, Where, Why, How?
   - 不管发布机构有多权威，数据都是可质疑的
@@ -23,13 +28,11 @@
 - 教学相长
 
 ### 软件准备
-- Excel
-- Ai
-- R
-- Sublime Text
+- Excel, Ai, R, Sublime Text
 
 ### 参考阅读
 - [Data Journalism Handbook](https://datajournalism.com/read/handbook/two)
+- [Data + Design](http://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf)
 
 ### 评分
 - 平时作业 60%
