@@ -13,15 +13,23 @@
   - 不更改原始数据（raw data）
   - 输出时应导出为csv等通用格式
 
-- The Eyeball Test
+- The Eyeball Test “眼睛雪亮”
+  - 提问：5W & H
+  - 每一列记录的是什么信息？数据单位是什么？数据类型是什么？
+  - 每份数据应该有一个说明和元数据，找出数据背后的上下文
+  - 字符是英文还是中文，输入时有空格吗，有空白数据吗
+  - 课堂练习2：联合国粮农组织，http://www.fao.org/faostat/zh/?#data
 
 **作业**
-
+1. 搜索并阅读《上海市公共数据开放暂行办法》
+2. 搜索并回答：我国还有哪些关于公共数据开放的条例或法规？国内外有哪些政府开放数据平台？（markdown文档，列出信源和链接，包括👆🏻上海这个）
+3. 在国家统计局[数据库](http://data.stats.gov.cn/index.htm)找到全国GDP数据，回答：2012-2018年各季度GDP增速（列出选取的统计指标、数据页面、计算步骤及答案）
+4. 阅读👇🏻的材料
 
 **阅读**
 - [《什么是政府统计》](https://cosx.org/2019/08/what-is-gov-stats/)
 - [《电子表格中的数据整理》](https://cosx.org/2018/07/data-organization-in-spreadsheets/)
-- [_Tidy Data_](https://www.jstatsoft.org/article/view/v059i10)
+- [Hadley Wickham,_Tidy Data_](https://www.jstatsoft.org/article/view/v059i10)
 
 * * *
 
