@@ -30,7 +30,7 @@
   - 冻结首排，开启过滤功能
   - 排序(sorting)
   - 过滤(filtering)
-  - 公式([functions][5])
+  - 公式(functions，👇🏻阅读5)
     - sum(), average(), median()
     - upper(), lower(), proper()
     - concatenate(), trim()
@@ -56,9 +56,9 @@
 **阅读**
 1. [《什么是政府统计》](https://cosx.org/2019/08/what-is-gov-stats/)
 2. [《电子表格中的数据整理》](https://cosx.org/2018/07/data-organization-in-spreadsheets/)
-3. [Hadley Wickham,_Tidy Data_](https://www.jstatsoft.org/article/view/v059i10)
-4. [Ethan P. White,_Nine simple ways to make it easier to (re)use your data_](https://peerj.com/preprints/7/)
-[5]: https://support.office.com/en-us/article/Top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19 "Top ten ways to clean your data"
+3. [Hadley Wickham, _Tidy Data_](https://www.jstatsoft.org/article/view/v059i10)
+4. [Ethan P. White, _Nine simple ways to make it easier to (re)use your data_](https://peerj.com/preprints/7/)
+5. [Microsoft, _Top ten ways to clean your data_]: https://support.office.com/en-us/article/Top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19 
 
 * * *
 
