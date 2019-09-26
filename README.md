@@ -1,10 +1,27 @@
 ## Week 2
 - 数据的类型
+  - 定类/名义（nominal/categorical/set of characters）：描述特征，不具有数值意义。如名字、性别、民族、车辆品牌、地点
+  - 定序（ordinal/sequence）：分类和排序都有意义。如教育水平、问卷中的偏好程度等
+  - 定距（interval）：没有绝对0点，数值间距相等，互相可以加减，但乘法无意义。如摄氏度、IQ
+  - 定比（ratio）：有绝对0点（true/meaningful zero point），一个值是另一个值的倍数或比率，可计算差、中位数、均值等。如质量、高度、速度
+  - 离散（discrete）：整数
+  - 连续（continuous）：小数点位数没有限制
+  
+- 数据录入（课堂练习1）
+  - “列”对应变量，“行”对应信息录入（columns for variables & rows for observations）
+  - 每一格应该只对应单一信息
+  - 不更改原始数据（raw data）
+  - 输出时应导出为csv等通用格式
+
+- The Eyeball Test
 
 **作业**
+
+
 **阅读**
 - [《什么是政府统计》](https://cosx.org/2019/08/what-is-gov-stats/)
 - [《电子表格中的数据整理》](https://cosx.org/2018/07/data-organization-in-spreadsheets/)
+- [_Tidy Data_](https://www.jstatsoft.org/article/view/v059i10)
 
 * * *
 
