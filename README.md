@@ -1,5 +1,5 @@
 ## Week 2
-- 数据的类型
+### 数据的类型
   - 定类/名义（nominal/categorical/set of characters）：描述特征，不具有数值意义。如名字、性别、民族、车辆品牌、地点
   - 定序（ordinal/sequence）：分类和排序都有意义。如教育水平、问卷中的偏好程度等
   - 定距（interval）：没有绝对0点，数值间距相等，互相可以加减，但乘法无意义。如摄氏度、IQ
@@ -7,7 +7,7 @@
   - 离散（discrete）：整数
   - 连续（continuous）：小数点位数没有限制
   
-- 数据录入（课堂练习1）
+### 数据录入（课堂练习1）
   - “列”对应变量，“行”对应信息录入（columns for variables & rows for observations）
   - 每一格应该只对应单一信息
   - 命名时避免数值、空格和特殊字符，数值单位需指明
@@ -17,7 +17,7 @@
   - 输出时应导出为csv等通用格式
   - 输出时应附上元数据（metadata: data about data）
 
-- The Eyeball Test “眼睛雪亮”（课堂练习2）
+### The Eyeball Test “眼睛雪亮”（课堂练习2）
   - 提问：5W & H
   - command+箭头
   - 每一列记录的是什么信息？数据单位是什么？数据类型是什么？
@@ -25,7 +25,7 @@
   - 字符是英文还是中文，输入时有空格吗，有空白数据吗
   - 练习2：2017年蔬菜产量最高的10个国家是？（数据：[联合国粮农组织](http://www.fao.org/faostat/zh/?#data)）
 
-- 数据处理
+### 数据处理
   - csv导入，文档编码与乱码 (tsv, fixed width)
   - 冻结首排，开启过滤功能
   - 排序(sorting)
@@ -38,7 +38,7 @@
   - 数据透视表（pivot tables）
   - Excel bugs：[行数](https://blog.csdn.net/zhongguomao/article/details/77737800),[日期](https://www.cnblogs.com/guogangj/p/9419453.html)
   
-- Tips
+### Tips
   - 保存、保存、保存
   - 记录每一步操作
   - 数据备份，不更改原始数据（raw data）
