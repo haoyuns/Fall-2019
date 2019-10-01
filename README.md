@@ -1,21 +1,21 @@
 ## Week 3
 ### 又是 Markdown
-- Markdown 诞生于2004年，由 John Gruber 与 Aaron Swartz 共同创造
-  - 题外话：关于 Aaron Swartz 的纪录片，[互联网之子](https://movie.douban.com/subject/25785114/)
-- 如何插入图片？如何空一行？如何……？简明教程在[此](https://commonmark.org/help/)，交互式教程在[这里](https://commonmark.org/help/tutorial/)，可在[这里](https://daringfireball.net/projects/markdown/dingus)练习写
+- Markdown 诞生于2004年，由 John Gruber（在 Aaron Swartz 协助下） 创造
+  - 题外话：关于 Aaron Swartz 的纪录片，[互联网之子](https://movie.douban.com/subject/25785114/ "The Internet's Own Boy")
+- 如何插入图片？如何空一行？空格有意义吗？…… 简明教程：[指令](https://commonmark.org/help/)，交互式教程（必看！）在[这里](https://commonmark.org/help/tutorial/)，可在[这个网站](https://daringfireball.net/projects/markdown/dingus)练习
 - GitHub 风味的 Markdown [说明](https://github.github.com/gfm/)
 
 ### 情感
-- Louise Ma, [What Love Looks Like](https://vimeo.com/70813009), [See by Touch](https://love.seebytouch.com/archive/filter-by/photo/tagged/love)
-- Lam Thuy Vo, [Quantified Breakup](https://quantifiedbreakup.tumblr.com/page/2) 
+* Louise Ma, [What Love Looks Like](https://vimeo.com/70813009 "What love looks like"), [See by Touch](https://love.seebytouch.com/archive/filter-by/photo/tagged/love "Louise Ma, seebytouch.com")
+* Lam Thuy Vo, [Quantified Breakup](https://quantifiedbreakup.tumblr.com/page/2 "Quantified Breakup") 
 
 ### Links
-- Giorgia Lupi, [How we can find ourselves in data](https://www.ted.com/talks/giorgia_lupi_how_we_can_find_ourselves_in_data)
-- How to [Build a Connection With Your Data Through Original Visualization](https://dataviztoday.com/shownotes/28)
-- Data Visualization Society, [资源](https://www.datavisualizationsociety.com/), [文章](https://medium.com/nightingale)
-- 你是“量化青年”吗？[1](http://www.qdaily.com/articles/31671.html), [2](http://notch.qdaily.com/mobile/posts/4878.html)
+- Giorgia Lupi, [How we can find ourselves in data](https://www.ted.com/talks/giorgia_lupi_how_we_can_find_ourselves_in_data "TED: How we can find ourselves in data")
+- How to [Build a Connection With Your Data Through Original Visualization](https://dataviztoday.com/shownotes/28 "Dataviz Today: How to Build a Connection With Your Data Through Original Visualization")
+- Data Visualization Society, [资源](https://www.datavisualizationsociety.com/ "Data Visualization Society"), [文章](https://medium.com/nightingale "Medium articles")
+- 你是“量化青年”吗？[1](http://www.qdaily.com/articles/31671.html "好奇心日报"), [2](http://notch.qdaily.com/mobile/posts/4878.html)
 - 不得不[被量化的运动员](http://www.qdaily.com/articles/38283.html)
-- [「后续」App](https://www.weibo.com/p/1005056581210531)
+- [「后续」App](https://www.weibo.com/p/1005056581210531 "「后续」微博")
 - 好奇怪 App, [好奇心日报](http://www.qdaily.com/articles/64091.html)
 
 * * *
@@ -52,7 +52,7 @@
 - 冻结首排，开启过滤功能
 - 排序(sorting)
 - 过滤(filtering)
-- 公式(functions，👇🏻阅读5)
+- 公式([functions][阅读5])
   - sum(), average(), median()
   - upper(), lower(), proper()
   - concatenate(), trim()
@@ -82,6 +82,8 @@
 4. Ethan P. White, [_Nine simple ways to make it easier to (re)use your data_](https://peerj.com/preprints/7/)
 5. Microsoft, [_Top ten ways to clean your data_](https://support.office.com/en-us/article/Top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)
 
+[阅读5]: https://support.office.com/en-us/article/Top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19 "Top ten ways to clean your data"
+
 * * *
 
 ## Week 1
@@ -89,7 +91,7 @@
   - 不管发布机构有多权威，数据都是可质疑的
   - 人工会不同程度地参与数据整合过程，难免偏差与错误：To err is human.
   - 永远检查数据集的元数据（Metadata）
-- 个人数据的价值：[Dear Data](https://www.dear-data.com/theproject)
+- 个人数据的价值：[Dear Data](https://www.dear-data.com/theproject "Dear Data")
 - GitHub 及 Markdown
   - GitHub Pages 主题选择：[https://pages.github.com/themes/](https://pages.github.com/themes/)
   - Markdown Cheatsheet：[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -114,8 +116,9 @@
 - Excel, Ai, R, Sublime Text
 
 ### 参考阅读
-- [Data Journalism Handbook](https://datajournalism.com/read/handbook/two)
-- [Data + Design](http://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf)
+- [Data Journalism Handbook](https://datajournalism.com/read/handbook/two "Data Journalism Handbook")
+- [R Graphics Cookbook](https://r-graphics.org/ "R Graphics Cookbook"), 2nd edition
+- [Data + Design](http://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf "Data + Design")
 
 ### 评分
 - 平时作业 60%
@@ -133,7 +136,7 @@
 - 使用二手数据，未经核实的数据
 - 信息获取方式不合伦理（如采访时没公开记者身份等）
 - 编造信息或内容
-- 大段改写或抄袭
+- 大段改写或抄袭（包括设计抄袭）
 - 缺勤6次以上
 
 ### 隐私
