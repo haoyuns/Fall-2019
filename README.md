@@ -1,3 +1,25 @@
+## Week 3
+### 又是 Markdown
+- Markdown 诞生于2004年，由 John Gruber 与 Aaron Swartz 共同创造
+  - 题外话：关于 Aaron Swartz 的纪录片，[互联网之子](https://movie.douban.com/subject/25785114/)
+- 如何插入图片？如何空一行？如何……？简明教程在[此](https://commonmark.org/help/)，交互式教程在[这里](https://commonmark.org/help/tutorial/)，可在[这里](https://daringfireball.net/projects/markdown/dingus)练习写
+- GitHub 风味的 Markdown [说明](https://github.github.com/gfm/)
+
+### 情感
+- Louise Ma, [What Love Looks Like](https://vimeo.com/70813009), [See by Touch](https://love.seebytouch.com/tagged/diagram/page/17)
+- Lam Thuy Vo, [Quantified Breakup](https://quantifiedbreakup.tumblr.com/page/2) 
+
+### Links
+- Giorgia Lupi, [How we can find ourselves in data](https://www.ted.com/talks/giorgia_lupi_how_we_can_find_ourselves_in_data)
+- How to [Build a Connection With Your Data Through Original Visualization](https://dataviztoday.com/shownotes/28)
+- Data Visualization Society, [资源](https://www.datavisualizationsociety.com/), [文章](https://medium.com/nightingale)
+- 你是“量化青年”吗？[1](http://www.qdaily.com/articles/31671.html), [2](http://notch.qdaily.com/mobile/posts/4878.html)
+- 不得不[被量化的运动员](http://www.qdaily.com/articles/38283.html)
+- [「后续」App](https://www.weibo.com/p/1005056581210531)
+- 好奇怪 App, [好奇心日报](http://www.qdaily.com/articles/64091.html)
+
+* * *
+
 ## Week 2
 ### 数据的类型
 - 定类/名义（nominal/categorical/set of characters）：描述特征，不具有数值意义。如名字、性别、民族、车辆品牌、地点
