@@ -6,7 +6,7 @@
 - GitHub 风味的 Markdown [说明](https://github.github.com/gfm/)
 
 ### 情感
-- Louise Ma, [What Love Looks Like](https://vimeo.com/70813009), [See by Touch](https://love.seebytouch.com/tagged/diagram/page/17)
+- Louise Ma, [What Love Looks Like](https://vimeo.com/70813009), [See by Touch](https://love.seebytouch.com/archive/filter-by/photo/tagged/love)
 - Lam Thuy Vo, [Quantified Breakup](https://quantifiedbreakup.tumblr.com/page/2) 
 
 ### Links
