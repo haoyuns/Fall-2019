@@ -26,11 +26,11 @@
 ### 案例类网站
 - [The Pudding](https://pudding.cool/)
 - *The Economist*, [Graphic Detail](https://www.economist.com/graphic-detail/)
-- FlowingData <flowingdata.com>
+- FlowingData <http:www.flowingdata.com>
 - Reddit 话题 [dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
 
 ### 可以玩的数据集
-- Data is Plural[邮件订阅](https://tinyletter.com/data-is-plural/archive)
+- Data is Plural [邮件订阅](https://tinyletter.com/data-is-plural/archive)
 - Kaggle [数据集](https://www.kaggle.com/datasets)
 - Reddit Data Challenge
 
