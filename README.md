@@ -9,6 +9,11 @@
 * Louise Ma, [What Love Looks Like](https://vimeo.com/70813009 "What love looks like"), [See by Touch](https://love.seebytouch.com/archive/filter-by/photo/tagged/love "Louise Ma, seebytouch.com")
 * Lam Thuy Vo, [Quantified Breakup](https://quantifiedbreakup.tumblr.com/page/2 "Quantified Breakup") 
 
+### 音乐
+* Doodle Chaos [Youtube 主页](https://www.youtube.com/user/DoodleChaos/videos "Doodle Chaos")
+* Nicholas Rougeux [Youtube 主页](https://www.youtube.com/channel/UCRQH9-hWxELNCv47z2O5nfg), 作品之一[卡农](https://www.youtube.com/watch?v=DxkpN4PUOzA)
+* Giant Steps [爵士名曲“巨人脚步”可视化](https://www.youtube.com/watch?v=rh6WTAHKYTc&list=WL&index=4&t=0s)
+
 ### Links
 - Giorgia Lupi, [How we can find ourselves in data](https://www.ted.com/talks/giorgia_lupi_how_we_can_find_ourselves_in_data "TED: How we can find ourselves in data")
 - How to [Build a Connection With Your Data Through Original Visualization](https://dataviztoday.com/shownotes/28 "Dataviz Today: How to Build a Connection With Your Data Through Original Visualization")
@@ -17,6 +22,17 @@
 - 不得不[被量化的运动员](http://www.qdaily.com/articles/38283.html)
 - [「后续」App](https://www.weibo.com/p/1005056581210531 "「后续」微博")
 - 好奇怪 App, [好奇心日报](http://www.qdaily.com/articles/64091.html)
+
+### 案例类网站
+- [The Pudding](https://pudding.cool/)
+- *The Economist*, [Graphic Detail](https://www.economist.com/graphic-detail/)
+- FlowingData <flowingdata.com>
+- Reddit 话题 [dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
+
+### 可以玩的数据集
+- Data is Plural[邮件订阅](https://tinyletter.com/data-is-plural/archive)
+- Kaggle [数据集](https://www.kaggle.com/datasets)
+- Reddit Data Challenge
 
 * * *
 
