@@ -8,6 +8,7 @@
 ### 情感
 * Louise Ma, [What Love Looks Like](https://vimeo.com/70813009 "What love looks like"), [See by Touch](https://love.seebytouch.com/archive/filter-by/photo/tagged/love "Louise Ma, seebytouch.com")
 * Lam Thuy Vo, [Quantified Breakup](https://quantifiedbreakup.tumblr.com/page/2 "Quantified Breakup") 
+* Nicholas Felton, 个人数据可视化“鼻祖” annual [personal reports 2005-2014](http://feltron.com/index.html)
 
 ### 音乐
 * Doodle Chaos [Youtube 主页](https://www.youtube.com/user/DoodleChaos/videos "Doodle Chaos")
@@ -22,6 +23,7 @@
 - 不得不[被量化的运动员](http://www.qdaily.com/articles/38283.html)
 - [「后续」App](https://www.weibo.com/p/1005056581210531 "「后续」微博")
 - 好奇怪 App, [好奇心日报](http://www.qdaily.com/articles/64091.html)
+- 数据新闻[在线公开课](https://journalismcourses.org/DATA0819.html)：Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 
 ### 案例类网站
 - [The Pudding](https://pudding.cool/)
@@ -33,6 +35,8 @@
 - Data is Plural [邮件订阅](https://tinyletter.com/data-is-plural/archive)
 - Kaggle [数据集](https://www.kaggle.com/datasets)
 - Reddit Data Challenge
+
+**作业**
 
 * * *
 
