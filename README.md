@@ -36,7 +36,16 @@
 - Kaggle [数据集](https://www.kaggle.com/datasets)
 - Reddit Data Challenge
 
-**作业**
+**作业（`10月15日中午前`提交）**
+- 可视化工具调研
+  1. 调研目前免费的可视化图表工具（国内外都得有，在线离线、交互静态都行）
+  2. 在 [Kaggle](https://www.kaggle.com/datasets) 选择一个公开数据集（可以只截取部分数据）
+  3. 用你调研的图表工具（不少于3种）呈现上面选取的数据
+  4. 在 markdown 里列出所选数据集、使用的工具及呈现，并附上使用体会
+  
+- 之前提交不规范的、还没掌握 markdown 基础知识的，修改已提交作业的 markdown 文档
+- **按个人需求和计划**，消化本周所列的链接内容，并注册[公开课](https://journalismcourses.org/DATA0819.html)学习
+
 
 * * *
 
@@ -89,7 +98,7 @@
 - 和同仁交叉核对
 - 如果条件允许，去实地调查数据是如何被收集及记录的
 
-**作业（10月9日前提交）**
+**作业（`10月9日前`提交）**
 1. 搜索并阅读《上海市公共数据开放暂行办法》
 2. 搜索并回答：我国还有哪些关于公共数据开放的条例或法规？国内外有哪些政府开放数据平台？（markdown文档，列出信源和链接，包括👆🏻上海这个）
 3. 在国家统计局[数据库](http://data.stats.gov.cn/index.htm)找到全国GDP数据，回答：2012-2018年各季度GDP增速（列出选取的统计指标、数据页面、计算步骤及答案）
@@ -117,7 +126,7 @@
   - Markdown Cheatsheet：[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - Markdown 教程：[https://www.markdowntutorial.com/](https://www.markdowntutorial.com/)
 
-**作业（9月30日前提交）**
+**作业（`9月30日前`提交）**
 1. 收集某个主题的个人数据，不限时间，规整为数据集
 2. 参考 Dear Data 的表现方式，拓展想象力
 3. 以手绘的形式呈现第一步收集的数据（无所谓美感，能展现想法为主），纸张大小 ≥ 明信片
