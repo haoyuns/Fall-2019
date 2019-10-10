@@ -14,8 +14,8 @@
 * Doodle Chaos [Youtube 主页](https://www.youtube.com/user/DoodleChaos/videos "Doodle Chaos")
 * Nicholas Rougeux [Youtube 主页](https://www.youtube.com/channel/UCRQH9-hWxELNCv47z2O5nfg), 作品之一[卡农](https://www.youtube.com/watch?v=DxkpN4PUOzA)
 * Giant Steps [爵士名曲“巨人脚步”可视化](https://www.youtube.com/watch?v=rh6WTAHKYTc&list=WL&index=4&t=0s)
-
-### Links
+  
+### 链接
 - **讲者**
   - Giorgia Lupi, [How we can find ourselves in data](https://www.ted.com/talks/giorgia_lupi_how_we_can_find_ourselves_in_data "TED: How we can find ourselves in data")
   - How to [Build a Connection With Your Data Through Original Visualization](https://dataviztoday.com/shownotes/28 "Dataviz Today: How to Build a Connection With Your Data Through Original Visualization")
@@ -41,8 +41,8 @@
   - Data is Plural [邮件订阅](https://tinyletter.com/data-is-plural/archive)
   - Kaggle [数据集](https://www.kaggle.com/datasets)
   - Reddit Data Challenge
-- 数据新闻[在线公开课](https://journalismcourses.org/DATA0819.html)  Data Journalism and Visualization with Free Tools (10.14 - 11.24)
-
+- **数据新闻[公开课](https://journalismcourses.org/DATA0819.html)**  
+Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 
 **作业（`10月15日中午前`提交）**
 - 可视化工具调研
