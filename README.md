@@ -45,7 +45,7 @@
 Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 
 **作业（`10月15日中午前`提交）**
-1. 可视化工具调研
+1. 用不同的可视化工具呈现同一个数据集
   - 调研目前免费的可视化图表工具（国内外都得有，在线离线、交互静态都行）
   - 在 [Kaggle](https://www.kaggle.com/datasets) 选择一个公开数据集（可以只截取部分数据）
   - 用你调研的图表工具（不少于3种）呈现上面选取的数据
