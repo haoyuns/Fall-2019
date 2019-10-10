@@ -16,25 +16,33 @@
 * Giant Steps [爵士名曲“巨人脚步”可视化](https://www.youtube.com/watch?v=rh6WTAHKYTc&list=WL&index=4&t=0s)
 
 ### Links
-- Giorgia Lupi, [How we can find ourselves in data](https://www.ted.com/talks/giorgia_lupi_how_we_can_find_ourselves_in_data "TED: How we can find ourselves in data")
-- How to [Build a Connection With Your Data Through Original Visualization](https://dataviztoday.com/shownotes/28 "Dataviz Today: How to Build a Connection With Your Data Through Original Visualization")
-- Data Visualization Society, [资源](https://www.datavisualizationsociety.com/ "Data Visualization Society"), [文章](https://medium.com/nightingale "Medium articles")
-- 你是“量化青年”吗？[1](http://www.qdaily.com/articles/31671.html "好奇心日报"), [2](http://notch.qdaily.com/mobile/posts/4878.html)
-- 不得不[被量化的运动员](http://www.qdaily.com/articles/38283.html)
-- [「后续」App](https://www.weibo.com/p/1005056581210531 "「后续」微博")
-- 好奇怪 App, [好奇心日报](http://www.qdaily.com/articles/64091.html)
-- 数据新闻[在线公开课](https://journalismcourses.org/DATA0819.html)：Data Journalism and Visualization with Free Tools (10.14 - 11.24)
+- **讲者**
+  - Giorgia Lupi, [How we can find ourselves in data](https://www.ted.com/talks/giorgia_lupi_how_we_can_find_ourselves_in_data "TED: How we can find ourselves in data")
+  - How to [Build a Connection With Your Data Through Original Visualization](https://dataviztoday.com/shownotes/28 "Dataviz Today: How to Build a Connection With Your Data Through Original Visualization")
 
-### 案例类网站
-- [The Pudding](https://pudding.cool/)
-- *The Economist*, [Graphic Detail](https://www.economist.com/graphic-detail/)
-- FlowingData <http:www.flowingdata.com>
-- Reddit 话题 [dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
+- **有关“量化”**
+  - 你是“量化青年”吗？[1](http://www.qdaily.com/articles/31671.html "好奇心日报"), [2](http://notch.qdaily.com/mobile/posts/4878.html)
+  - 不得不[被量化的运动员](http://www.qdaily.com/articles/38283.html)
 
-### 可以玩的数据集
-- Data is Plural [邮件订阅](https://tinyletter.com/data-is-plural/archive)
-- Kaggle [数据集](https://www.kaggle.com/datasets)
-- Reddit Data Challenge
+- **不一样的信息来源**
+  - [「后续」App](https://www.weibo.com/p/1005056581210531 "「后续」微博")
+  - 好奇怪 App, [好奇心日报](http://www.qdaily.com/articles/64091.html)
+  - 端传媒 [Initium Media](https://theinitium.com/)
+  - [Matters 社区](https://matters.news/)
+
+- **可视化案例**
+  - [The Pudding](https://pudding.cool/)
+  - *The Economist*, [Graphic Detail](https://www.economist.com/graphic-detail/)
+  - FlowingData <http:www.flowingdata.com>
+  - Reddit 话题 [dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
+  - Data Visualization Society, [资源](https://www.datavisualizationsociety.com/ "Data Visualization Society"), [文章](https://medium.com/nightingale "Medium articles")
+
+- **数据集**
+  - Data is Plural [邮件订阅](https://tinyletter.com/data-is-plural/archive)
+  - Kaggle [数据集](https://www.kaggle.com/datasets)
+  - Reddit Data Challenge
+- 数据新闻[在线公开课](https://journalismcourses.org/DATA0819.html)  Data Journalism and Visualization with Free Tools (10.14 - 11.24)
+
 
 **作业（`10月15日中午前`提交）**
 - 可视化工具调研
