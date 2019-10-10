@@ -45,14 +45,14 @@
 Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 
 **作业（`10月15日中午前`提交）**
-- 可视化工具调研
-  1. 调研目前免费的可视化图表工具（国内外都得有，在线离线、交互静态都行）
-  2. 在 [Kaggle](https://www.kaggle.com/datasets) 选择一个公开数据集（可以只截取部分数据）
-  3. 用你调研的图表工具（不少于3种）呈现上面选取的数据
-  4. 在 markdown 里列出所选数据集、使用的工具及呈现，并附上使用体会
+1. 可视化工具调研
+  - 调研目前免费的可视化图表工具（国内外都得有，在线离线、交互静态都行）
+  - 在 [Kaggle](https://www.kaggle.com/datasets) 选择一个公开数据集（可以只截取部分数据）
+  - 用你调研的图表工具（不少于3种）呈现上面选取的数据
+  - 在 markdown 里列出所选数据集、使用的工具及呈现，并附上使用体会
   
-- 之前提交不规范的、还没掌握 markdown 基础知识的，修改已提交作业的 markdown 文档
-- **按个人需求和计划**，消化本周所列的链接内容，并注册[公开课](https://journalismcourses.org/DATA0819.html)学习
+2. 之前提交不规范，或还没掌握 markdown 基础的同学，修改已提交作业的 markdown 文档
+3. **按个人需求和计划**，消化本周所列的链接内容，并注册[公开课](https://journalismcourses.org/DATA0819.html)学习
 
 
 * * *
