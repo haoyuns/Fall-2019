@@ -50,10 +50,11 @@ Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 
   **作业（`10月15日中午前`提交）**
   1. 用不同的可视化工具呈现同一个数据集
-    - 调研目前免费的可视化图表工具（国内外都得有，在线离线、交互静态都行）
-    - 在 [Kaggle](https://www.kaggle.com/datasets) 选择一个公开数据集（可以只截取部分数据）
-    - 用你调研的图表工具（不少于3种）呈现上面选取的数据
-    - 在 markdown 里列出所选数据集、使用的工具及呈现，并附上使用体会
+  
+  - 调研目前免费的可视化图表工具（国内外都得有，在线离线、交互静态都行）
+  - 在 [Kaggle](https://www.kaggle.com/datasets) 选择一个公开数据集（可以只截取部分数据）
+  - 用你调研的图表工具（不少于3种）呈现上面选取的数据
+  - 在 markdown 里列出所选数据集、使用的工具及呈现，并附上使用体会
     
   2. 之前提交不规范，或还没掌握 markdown 基础的同学，修改已提交作业的 markdown 文档
   3. **按个人需求和计划**，消化本周所列的链接内容，并注册[公开课](https://journalismcourses.org/DATA0819.html)学习
@@ -84,7 +85,7 @@ Data Journalism and Visualization with Free Tools (10.14 - 11.24)
   - 输出时应导出为csv等通用格式
   - 输出时应附上元数据（metadata: data about data）
   
-  ### The Eyeball Test “眼睛雪亮”（课堂练习2）
+  ### The Eyeball Test（课堂练习2）
   - 提问：5W & H
   - command+箭头
   - 每一列记录的是什么信息？数据单位是什么？数据类型是什么？
@@ -118,7 +119,7 @@ Data Journalism and Visualization with Free Tools (10.14 - 11.24)
   1. 搜索并阅读《上海市公共数据开放暂行办法》
   2. 搜索并回答：我国还有哪些关于公共数据开放的条例或法规？国内外有哪些政府开放数据平台？（markdown文档，列出信源和链接，包括👆🏻上海这个）
   3. 在国家统计局[数据库](http://data.stats.gov.cn/index.htm)找到全国GDP数据，回答：2012-2018年各季度GDP增速（列出选取的统计指标、数据页面、计算步骤及答案）
-  4. 阅读👇🏻的材料
+  4. 阅读👇🏻
   
   **阅读**
   1. 高敏雪，[《什么是政府统计》](https://cosx.org/2019/08/what-is-gov-stats/)
