@@ -1,5 +1,8 @@
 ## Week 3
-  
+
+<details>
+  <summary>展开</summary>
+    
 #### 又是 Markdown
 - Markdown 诞生于2004年，由 John Gruber（在 Aaron Swartz 协助下） 创造
   - 题外话：关于 Aaron Swartz 的纪录片，[互联网之子](https://movie.douban.com/subject/25785114/ "The Internet's Own Boy")
@@ -57,10 +60,13 @@ ta Journalism and Visualization with Free Tools (10.14 - 11.24)
 2. 之前提交不规范，或还没掌握 markdown 基础的同学，修改已提交作业的 markdown 文档
 3. **按个人需求和计划**，消化本周所列的链接内容，并注册[公开课](https://journalismcourses.org/DATA0819.html)学习
 
-* * *
+</details>
 
 ## Week 2
-  
+
+<details>
+  <summary>展开</summary>
+
 #### 数据的类型
 - 定类/名义（nominal/categorical/set of characters）：描述特征，不具有数值意义。如名字、性别、民族、车辆品牌、地点
 - 定序（ordinal/sequence）：分类和排序都有意义。如教育水平、问卷中的偏好程度等
@@ -124,9 +130,12 @@ ta Journalism and Visualization with Free Tools (10.14 - 11.24)
 
 [阅读5]: https://support.office.com/en-us/article/Top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19 "Top ten ways to clean your data"
 
-* * *
+</details>
 
 ## Week 1
+
+<details>
+  <summary>展开</summary>
   
 #### 对数据的“背景调查”：Who, What, When, Where, Why, How?
 - 不管发布机构有多权威，数据都是可质疑的
@@ -147,9 +156,9 @@ ta Journalism and Visualization with Free Tools (10.14 - 11.24)
 4. 以 markdown 文档形式记录自己的上述过程操作或感想
 5. 在同一个 markdown 文档里回答：你认为日常生活中哪些数据是被搜集的？被谁搜集了？
 
-* * *
+</details>
  
-### 课程目标
+#### 课程目标
 - 锻炼信息获取、辨别及核实的能力
 - 锻炼数据处理及分析的能力
 - 基本设计概念与图表制作
