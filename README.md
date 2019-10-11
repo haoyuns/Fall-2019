@@ -49,7 +49,7 @@
 - **数据新闻[公开课](https://journalismcourses.org/DATA0819.html)**  
 Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 
-**作业（`10月15日中午前`提交）**
+**作业（`10月17日中午前`提交）**
 1. 用不同的可视化工具呈现同一个数据集
 
 - 调研目前免费的可视化图表工具（国内外都得有，在线离线、交互静态都行）
@@ -80,7 +80,7 @@ Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 - 每一格应该只对应单一信息
 - 命名时避免数值、空格和特殊字符，数值单位需指明
 - “0”和“空白”的差异（0是数值，空白是null）
-  ![ways to input null data](null.png)
+  ![ways to input null data](images/null.png)
 - 数据核验
 - 输出时应导出为csv等通用格式
 - 输出时应附上元数据（metadata: data about data）
