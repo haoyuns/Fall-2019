@@ -1,65 +1,70 @@
 ## Week 3
-### 又是 Markdown
-- Markdown 诞生于2004年，由 John Gruber（在 Aaron Swartz 协助下） 创造
-  - 题外话：关于 Aaron Swartz 的纪录片，[互联网之子](https://movie.douban.com/subject/25785114/ "The Internet's Own Boy")
-- 如何插入图片？如何空一行？空格有意义吗？…… 简明教程：[指令](https://commonmark.org/help/)，交互式教程（必看！）在[这里](https://commonmark.org/help/tutorial/)，可在[这个网站](https://daringfireball.net/projects/markdown/dingus)练习
-- GitHub 风味的 Markdown [说明](https://github.github.com/gfm/)
 
-### 情感
-* Louise Ma, [What Love Looks Like](https://vimeo.com/70813009 "What love looks like"), [See by Touch](https://love.seebytouch.com/archive/filter-by/photo/tagged/love "Louise Ma, seebytouch.com")
-* Lam Thuy Vo, [Quantified Breakup](https://quantifiedbreakup.tumblr.com/page/2 "Quantified Breakup") 
-* Nicholas Felton, 个人数据可视化“鼻祖” annual [personal reports 2005-2014](http://feltron.com/index.html)
-
-### 音乐
-* Doodle Chaos [Youtube 主页](https://www.youtube.com/user/DoodleChaos/videos "Doodle Chaos")
-* Nicholas Rougeux [Youtube 主页](https://www.youtube.com/channel/UCRQH9-hWxELNCv47z2O5nfg), 作品之一[卡农](https://www.youtube.com/watch?v=DxkpN4PUOzA)
-* Giant Steps [爵士名曲“巨人脚步”可视化](https://www.youtube.com/watch?v=rh6WTAHKYTc&list=WL&index=4&t=0s)
+<details>
+  <summary>展开</summary>
   
-### 链接
-- **讲者**
-  - Giorgia Lupi, [How we can find ourselves in data](https://www.ted.com/talks/giorgia_lupi_how_we_can_find_ourselves_in_data "TED: How we can find ourselves in data")
-  - How to [Build a Connection With Your Data Through Original Visualization](https://dataviztoday.com/shownotes/28 "Dataviz Today: How to Build a Connection With Your Data Through Original Visualization")
+  ### 又是 Markdown
+  - Markdown 诞生于2004年，由 John Gruber（在 Aaron Swartz 协助下） 创造
+    - 题外话：关于 Aaron Swartz 的纪录片，[互联网之子](https://movie.douban.com/subject/25785114/ "The Internet's Own Boy")
+  - 如何插入图片？如何空一行？空格有意义吗？…… 简明教程：[指令](https://commonmark.org/help/)，交互式教程（必看！）在[这里](https://commonmark.org/help/tutorial/)，可在[这个网站](https://daringfireball.net/projects/markdown/dingus)练习
+  - GitHub 风味的 Markdown [说明](https://github.github.com/gfm/)
+  
+  ### 情感
+  * Louise Ma, [What Love Looks Like](https://vimeo.com/70813009 "What love looks like"), [See by Touch](https://love.seebytouch.com/archive/filter-by/photo/tagged/love "Louise Ma, seebytouch.com")
+  * Lam Thuy Vo, [Quantified Breakup](https://quantifiedbreakup.tumblr.com/page/2 "Quantified Breakup") 
+  * Nicholas Felton, 个人数据可视化“鼻祖” annual [personal reports 2005-2014](http://feltron.com/index.html)
+  
+  ### 音乐
+  * Doodle Chaos [Youtube 主页](https://www.youtube.com/user/DoodleChaos/videos "Doodle Chaos")
+  * Nicholas Rougeux [Youtube 主页](https://www.youtube.com/channel/UCRQH9-hWxELNCv47z2O5nfg), 作品之一[卡农](https://www.youtube.com/watch?v=DxkpN4PUOzA)
+  * Giant Steps [爵士名曲“巨人脚步”可视化](https://www.youtube.com/watch?v=rh6WTAHKYTc&list=WL&index=4&t=0s)
+    
+  ### 链接
+  - **讲者**
+    - Giorgia Lupi, [How we can find ourselves in data](https://www.ted.com/talks/giorgia_lupi_how_we_can_find_ourselves_in_data "TED: How we can find ourselves in data")
+    - How to [Build a Connection With Your Data Through Original Visualization](https://dataviztoday.com/shownotes/28 "Dataviz Today: How to Build a Connection With Your Data Through Original Visualization")
 
-- **有关“量化”**
-  - 你是“量化青年”吗？[1](http://www.qdaily.com/articles/31671.html "好奇心日报"), [2](http://notch.qdaily.com/mobile/posts/4878.html)
-  - 不得不[被量化的运动员](http://www.qdaily.com/articles/38283.html)
-
-- **不一样的信息来源**
-  - [「后续」App](https://www.weibo.com/p/1005056581210531 "「后续」微博")
-  - 好奇怪 App, [好奇心日报](http://www.qdaily.com/articles/64091.html)
-  - 端传媒 [Initium Media](https://theinitium.com/)
-  - [Matters 社区](https://matters.news/)
-
-- **可视化案例**
-  - [The Pudding](https://pudding.cool/)
-  - *The Economist*, [Graphic Detail](https://www.economist.com/graphic-detail/)
-  - FlowingData <http:www.flowingdata.com>
-  - Reddit 话题 [dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
-  - Data Visualization Society, [资源](https://www.datavisualizationsociety.com/ "Data Visualization Society"), [文章](https://medium.com/nightingale "Medium articles")
-
-- **数据集**
-  - Data is Plural [邮件订阅](https://tinyletter.com/data-is-plural/archive)
-  - Kaggle [数据集](https://www.kaggle.com/datasets)
-  - Reddit Data Challenge
-- **数据新闻[公开课](https://journalismcourses.org/DATA0819.html)**  
+  - **有关“量化”**
+    - 你是“量化青年”吗？[1](http://www.qdaily.com/articles/31671.html "好奇心日报"), [2](http://notch.qdaily.com/mobile/posts/4878.html)
+    - 不得不[被量化的运动员](http://www.qdaily.com/articles/38283.html)
+  
+  - **不一样的信息来源**
+    - [「后续」App](https://www.weibo.com/p/1005056581210531 "「后续」微博")
+    - 好奇怪 App, [好奇心日报](http://www.qdaily.com/articles/64091.html)
+    - 端传媒 [Initium Media](https://theinitium.com/)
+    - [Matters 社区](https://matters.news/)
+  
+  - **可视化案例**
+    - [The Pudding](https://pudding.cool/)
+    - *The Economist*, [Graphic Detail](https://www.economist.com/graphic-detail/)
+    - FlowingData <http:www.flowingdata.com>
+    - Reddit 话题 [dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
+    - Data Visualization Society, [资源](https://www.datavisualizationsociety.com/ "Data Visualization Society"), [文章](https://medium.com/nightingale "Medium articles")
+  
+  - **数据集**
+    - Data is Plural [邮件订阅](https://tinyletter.com/data-is-plural/archive)
+    - Kaggle [数据集](https://www.kaggle.com/datasets)
+    - Reddit Data Challenge
+  - **数据新闻[公开课](https://journalismcourses.org/DATA0819.html)**  
 Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 
-**作业（`10月15日中午前`提交）**
-1. 用不同的可视化工具呈现同一个数据集
-  - 调研目前免费的可视化图表工具（国内外都得有，在线离线、交互静态都行）
-  - 在 [Kaggle](https://www.kaggle.com/datasets) 选择一个公开数据集（可以只截取部分数据）
-  - 用你调研的图表工具（不少于3种）呈现上面选取的数据
-  - 在 markdown 里列出所选数据集、使用的工具及呈现，并附上使用体会
-  
-2. 之前提交不规范，或还没掌握 markdown 基础的同学，修改已提交作业的 markdown 文档
-3. **按个人需求和计划**，消化本周所列的链接内容，并注册[公开课](https://journalismcourses.org/DATA0819.html)学习
+  **作业（`10月15日中午前`提交）**
+  1. 用不同的可视化工具呈现同一个数据集
+    - 调研目前免费的可视化图表工具（国内外都得有，在线离线、交互静态都行）
+    - 在 [Kaggle](https://www.kaggle.com/datasets) 选择一个公开数据集（可以只截取部分数据）
+    - 用你调研的图表工具（不少于3种）呈现上面选取的数据
+    - 在 markdown 里列出所选数据集、使用的工具及呈现，并附上使用体会
+    
+  2. 之前提交不规范，或还没掌握 markdown 基础的同学，修改已提交作业的 markdown 文档
+  3. **按个人需求和计划**，消化本周所列的链接内容，并注册[公开课](https://journalismcourses.org/DATA0819.html)学习
 
+</details>
 
 * * *
 
 ## Week 2
 <details>
-  <summary>展开查看</summary>
+  <summary>展开</summary>
   
   ### 数据的类型
   - 定类/名义（nominal/categorical/set of characters）：描述特征，不具有数值意义。如名字、性别、民族、车辆品牌、地点
@@ -131,7 +136,7 @@ Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 ## Week 1
 
 <details>
-  <summary>展开查看</summary>
+  <summary>展开</summary>
   
   - 对数据的“背景调查”：Who, What, When, Where, Why, How?
     - 不管发布机构有多权威，数据都是可质疑的
@@ -154,7 +159,7 @@ Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 
 * * *
  
-## 课程目标
+### 课程目标
 - 锻炼信息获取、辨别及核实的能力
 - 锻炼数据处理及分析的能力
 - 基本设计概念与图表制作
@@ -178,6 +183,7 @@ Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 ### 加分项
 - 数据获取难度高
 - 数据处理和分析有明晰记录
+- 视觉美感
 
 ### 扣分或直接不及格项
 - 援引内容不注明信源或链接
