@@ -1,12 +1,12 @@
 ## Week 3
   
-### 又是 Markdown
+#### 又是 Markdown
 - Markdown 诞生于2004年，由 John Gruber（在 Aaron Swartz 协助下） 创造
   - 题外话：关于 Aaron Swartz 的纪录片，[互联网之子](https://movie.douban.com/subject/25785114/ "The Internet's Own Boy")
 - 如何插入图片？如何空一行？空格有意义吗？…… 简明教程：[指令](https://commonmark.org/help/)，交互式教程（必看！）在[这里](https://commonmark.org/help/tutorial/)，可在[这个网站](https://daringfireball.net/projects/markdown/dingus)练习
 - GitHub 风味的 Markdown [说明](https://github.github.com/gfm/)
   
-### 多看多读多听
+#### 多看多读多听
 - **讲者**
   - Giorgia Lupi, [How we can find ourselves in data](https://www.ted.com/talks/giorgia_lupi_how_we_can_find_ourselves_in_data "TED: How we can find ourselves in data")
   - How to [Build a Connection With Your Data Through Original Visualization](https://dataviztoday.com/shownotes/28 "Dataviz Today: How to Build a Connection With Your Data Through Original Visualization")
@@ -61,7 +61,7 @@ ta Journalism and Visualization with Free Tools (10.14 - 11.24)
 
 ## Week 2
   
-### 数据的类型
+#### 数据的类型
 - 定类/名义（nominal/categorical/set of characters）：描述特征，不具有数值意义。如名字、性别、民族、车辆品牌、地点
 - 定序（ordinal/sequence）：分类和排序都有意义。如教育水平、问卷中的偏好程度等
 - 定距（interval）：没有绝对0点，数值间距相等，互相可以加减，但乘法无意义。如摄氏度、IQ
@@ -69,7 +69,7 @@ ta Journalism and Visualization with Free Tools (10.14 - 11.24)
 - 离散（discrete）：整数
 - 连续（continuous）：小数点位数没有限制
 
-### 数据录入（课堂练习1）
+#### 数据录入（课堂练习1）
 - “列”对应变量，“行”对应信息录入（columns for variables & rows for observations）
 - 每一格应该只对应单一信息
 - 命名时避免数值、空格和特殊字符，数值单位需指明
@@ -79,7 +79,7 @@ ta Journalism and Visualization with Free Tools (10.14 - 11.24)
 - 输出时应导出为csv等通用格式
 - 输出时应附上元数据（metadata: data about data）
 
-### The Eyeball Test（课堂练习2）
+#### The Eyeball Test（课堂练习2）
 - 提问：5W & H
 - command+箭头
 - 每一列记录的是什么信息？数据单位是什么？数据类型是什么？
@@ -87,7 +87,7 @@ ta Journalism and Visualization with Free Tools (10.14 - 11.24)
 - 字符是英文还是中文，输入时有空格吗，有空白数据吗
 - 练习2：2017年蔬菜产量最高的10个国家是？（数据：[联合国粮农组织](http://www.fao.org/faostat/zh/?#data)）
 
-### 数据处理
+#### 数据处理
 - csv导入，文档编码与乱码 (tsv, fixed width)
 - 冻结首排，开启过滤功能
 - 排序(sorting)
@@ -100,7 +100,7 @@ ta Journalism and Visualization with Free Tools (10.14 - 11.24)
 - 数据透视表（pivot tables）
 - Excel bugs：[行数](https://blog.csdn.net/zhongguomao/article/details/77737800),[日期](https://www.cnblogs.com/guogangj/p/9419453.html)
 
-### Tips
+#### Tips
 - 保存、保存、保存
 - 记录每一步操作
 - 数据备份，不更改原始数据（raw data）
@@ -128,14 +128,16 @@ ta Journalism and Visualization with Free Tools (10.14 - 11.24)
 
 ## Week 1
   
-- 对数据的“背景调查”：Who, What, When, Where, Why, How?
-  - 不管发布机构有多权威，数据都是可质疑的
-  - 人工会不同程度地参与数据整合过程，难免偏差与错误：To err is human.
-  - 永远检查数据集的元数据（Metadata）
-- 个人数据的价值：[Dear Data](https://www.dear-data.com/theproject "Dear Data")
-- GitHub 及 Markdown
-  - GitHub Pages 主题选择：[https://pages.github.com/themes/](https://pages.github.com/themes/)
-  - Markdown Cheatsheet：[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+#### 对数据的“背景调查”：Who, What, When, Where, Why, How?
+- 不管发布机构有多权威，数据都是可质疑的
+- 人工会不同程度地参与数据整合过程，难免偏差与错误：To err is human.
+- 永远检查数据集的元数据（Metadata）
+
+#### 个人数据的价值：[Dear Data](https://www.dear-data.com/theproject "Dear Data")
+
+#### GitHub 及 Markdown
+- GitHub Pages 主题选择：[https://pages.github.com/themes/](https://pages.github.com/themes/)
+- Markdown Cheatsheet：[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Markdown 教程：[https://www.markdowntutorial.com/](https://www.markdowntutorial.com/)
 
 **作业（`9月30日前`提交）**
@@ -153,27 +155,27 @@ ta Journalism and Visualization with Free Tools (10.14 - 11.24)
 - 基本设计概念与图表制作
 - 教学相长
 
-### 软件准备
+#### 软件准备
 - Excel, Ai, R, Sublime Text
 
-### 参考阅读
+#### 参考阅读
 - [Data Journalism Handbook](https://datajournalism.com/read/handbook/two "Data Journalism Handbook")
 - [R Graphics Cookbook](https://r-graphics.org/ "R Graphics Cookbook"), 2nd edition
 - [Data + Design](http://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf "Data + Design")
 
-### 评分
+#### 评分
 - 平时作业 60%
 - 期末项目 30%
 - 课堂参与 10%
 
 平时作业包含软件操作、信息搜集、数据申请或数据分析等。期末项目要求在与老师讨论后，独立完成一个以采访为基础、数据驱动、包含信息设计与呈现的作品。
 
-### 加分项
+#### 加分项
 - 数据获取难度高
 - 数据处理和分析有明晰记录
 - 视觉美感
 
-### 扣分或直接不及格项
+#### 扣分或直接不及格项
 - 援引内容不注明信源或链接
 - 使用二手数据，未经核实的数据
 - 信息获取方式不合伦理（如采访时没公开记者身份等）
@@ -181,6 +183,6 @@ ta Journalism and Visualization with Free Tools (10.14 - 11.24)
 - 大段改写或抄袭（包括设计抄袭）
 - 缺勤6次以上
 
-### 隐私
+#### 隐私
 - 课堂上的拍照、录音和录像仅供个人学习使用，未经当事人书面允许请勿任意传播
 - 互相尊重，不合适言行当面指出
