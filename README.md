@@ -47,7 +47,7 @@
   - Reddit Data Challenge
   
 - **数据新闻[公开课](https://journalismcourses.org/DATA0819.html)**  
-ta Journalism and Visualization with Free Tools (10.14 - 11.24)
+Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 
 **作业（`10月15日中午前`提交）**
 1. 用不同的可视化工具呈现同一个数据集
