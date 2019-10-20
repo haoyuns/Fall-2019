@@ -1,69 +1,115 @@
 ### Week 4-5
 
 <details>
-  <summary>展开</summary>
+  <summary>色彩</summary>
+ 
+#### [色彩基础](https://www.bilibili.com/video/av12369672/)
+- **原色、间色、复色**
+  - 原色 Primary Colors  
+  指不能透过其他颜色混合调配而得出的“基本色”，三原色“红、黄、蓝”
+  - 间色/二次色 Secondary Colors  
+  由两种等量的原色混合而成，如橙=红+黄、紫=红+蓝、绿=蓝+黄
+  - 复色/第三色 Tertiary Colors  
+  由色轮上的间色与其相邻的原色混合而成，如黄橙色、蓝紫色
+  - 互补色 Complementary Colors  
+  色轮上二次色与其正对面的原色为互补色，如红色与绿色、蓝色与橙色
+
+- **色彩三属性**：色相、饱和度、明度
+  - 色相 Hue  
+  简单来说，就是色轮上的12种颜色，如红色，黄色
+  - 饱和度/色度 Saturation  
+  指某个颜色的强度，数值越高色彩越纯，低则逐渐变灰
+  - 明度/亮度 Value  
+  指颜色的亮度：往一个颜色里加白色，明度就提高；反之加黑色，明度降低。两个极端就是黑、白两色
   
-  #### 色彩基础
-  - **原色、间色、复色**
-    - 原色 Primary Colors  
-    指不能透过其他颜色混合调配而得出的“基本色”，三原色“红、黄、蓝”
-    - 间色/二次色 Secondary Colors  
-    由两种等量的原色混合而成，如橙=红+黄、紫=红+蓝、绿=蓝+黄
-    - 复色/第三色 Tertiary Colors  
-    由色轮上的间色与其相邻的原色混合而成，如黄橙色、蓝紫色
-    - 互补色 Complementary Colors  
-    色轮上二次色与其正对面的原色为互补色，如红色与绿色、蓝色与橙色
+- **RGB** vs **CMYK**
+  - RGB [三原色光模式][rgb]：**适用于电子屏幕**，三种颜色的光聚在一起形成白光，缺乏光（屏幕关闭）即是黑色  
+  ![rgb](images/rgb.jpg)
   
-  - **色彩三属性**：色相、饱和度、明度
-    - 色相 Hue  
-    简单来说，就是色轮上的12种颜色，如红色，黄色
-    - 饱和度/色度 Saturation  
-    指某个颜色的强度，数值越高色彩越纯，低则逐渐变灰
-    - 明度/亮度 Value  
-    指颜色的亮度：往一个颜色里加白色，明度就提高；反之加黑色，明度降低。两个极端就是黑、白两色
+  - CMYK [印刷四分色模式][cmyk]：青色 Cyan、品红 Magenta、黄色 Yellow、黑色 Key，**适用于印刷品**  
+  由于现实情况中，前三种颜色的油墨叠印而成的并不是纯黑，所以需要专门定位标准的黑色，称为Key。没有油墨即是白色  
+  ![cmyk](images/cmyk.png)
+
+[rgb]: https://zh.wikipedia.org/wiki/%E4%B8%89%E5%8E%9F%E8%89%B2%E5%85%89%E6%A8%A1%E5%BC%8F "RGB mode"
+[cmyk]: https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%88%B7%E5%9B%9B%E5%88%86%E8%89%B2%E6%A8%A1%E5%BC%8F "CMYK mode"
+
+#### 色彩[搭配](https://colorsupplyyy.com/app/)
+- **单色** Monochromatic  
+<img src="images/c-mono.jpeg" width="400">
+
+- **类似** Analogous  
+色轮上彼此相邻的颜色组成  
+<img src="images/c-analogous.jpeg" width="400">
+
+- **互补** Complementary  
+色轮中完全对立的颜色为互补色  
+<img src="images/c-complementary.jpeg" width="400">
+
+- **等边互补** Split Complementary  
+选择一种颜色，再在色轮上找出它正对面的互补色；  
+不直接使用这个互补色，而是使用该互补色两侧的颜色
+<img src="images/c-split.jpeg" width="400">
+
+#### 基于数据的[色彩选择](https://blog.datawrapper.de/colors/)
+- **离散型**色系 Diverging  
+两端颜色为互补色（如红色与绿色），中段颜色通常较浅；可以强调中间值域，并且使得两端的数据一目了然，适合偏重极值和中间值的数据  
+![离散](images/d-diverging.png)
+
+- **序列型**色系 Sequential  
+一般是同一色调（Hue）的由浅及深或由深至浅；数值较小用浅色，较大用深色，适合单一主题、比重比较平均的数  
+![序列](images/d-sequential.png)
+
+- **分类型**色系 Qualitative/Categorical  
+分类型的每种颜色都“各不相关”，采用不同色调；适合用来区分不同种类下的数据，如区分土地用途  
+![分类](images/d-qualitative.png)
+
+- **ColorBrewer** [演示](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+
+</details>
+   
+<details>
+  <summary>字体、排版</summary>
+
+#### [字体基础](https://www.bilibili.com/video/av12368230/)
+- 衬线、非衬线体
+  - Serif
+  - Sans Serif
+  
+- 空间：Kerning, Tracking...
+  - Kerning
+  - Tracking
+  
+- 排版
+  - Proximity
+  - Alignment
+  - Constrast
+  - Repitition
+  
+</details>
+
+<details>
+  <summary>图表工具</summary>
+</details>
+
+<details>
+  <summary>阅读及资料</summary>
+  
+- **色彩**
+  - Datawrapper，[性别与颜色](https://blog.datawrapper.de/gendercolor/)
+  - Datawrapper，数据可视化[如何更好地使用颜色](https://blog.datawrapper.de/colors/)
+  - 浮世绘，[富岳三十六景](https://www.shuge.org/ebook/thirty-six-views-of-mount-fuji/)
+  - 看到色弱者眼中的颜色？使用 Chrome 插件[Colorblindly](https://github.com/oftheheadland/Colorblindly)
+  
+- **字体**
+  - TIB，城市字体观察：[招牌备忘录](https://thetype.com/2017/12/13856/)
+  - TIB，跨文化[文字设计](https://thetype.com/2018/12/16247/)
+  - TIB，孔雀计划：[中文字体排印的思路](https://thetype.com/kongque/)
+  - 日本火柴盒贴画[集萃](https://www.shuge.org/ebook/ri-ben-huo-hua-she-ji-ji-cui/)
+  - 姜庆共，[《上海字记》](https://book.douban.com/subject/30136454/)
     
-  - **RGB** vs **CMYK**
-    - RGB [三原色光模式][rgb]：**适用于电子屏幕**，三种颜色的光聚在一起形成白光，缺乏光（屏幕关闭）即是黑色  
-    ![rgb](images/rgb.jpg)
-    
-    - CMYK [印刷四分色模式][cmyk]：青色 Cyan、品红 Magenta、黄色 Yellow、黑色 Key，**适用于印刷品**  
-    由于现实情况中，前三种颜色的油墨叠印而成的并不是纯黑，所以需要专门定位标准的黑色，称为Key。没有油墨即是白色  
-    ![cmyk](images/cmyk.png)
-  
-  [rgb]: https://zh.wikipedia.org/wiki/%E4%B8%89%E5%8E%9F%E8%89%B2%E5%85%89%E6%A8%A1%E5%BC%8F "RGB mode"
-  [cmyk]: https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%88%B7%E5%9B%9B%E5%88%86%E8%89%B2%E6%A8%A1%E5%BC%8F "CMYK mode"
-  
-  #### 色彩搭配思路
-  - **单色** Monochromatic
-  <img src="images/c-mono.jpeg" width="400">
-  
-  - **类似** Analogous  
-  色轮上彼此相邻的颜色组成
-  <img src="images/c-analogous.jpeg" width="400">
-  
-  - **互补** Complementary  
-  色轮中完全对立的颜色为互补色
-  <img src="images/c-complementary.jpeg" width="400">
-  
-  - **等边互补** Split Complementary  
-  选择一种颜色，再在色轮上找出它正对面的互补色；  
-  不直接使用这个互补色，而是使用该互补色两侧的颜色
-  <img src="images/c-split.jpeg" width="400">
-  
-  #### 基于数据的色彩选择
-  - **离散型**色系 Diverging  
-  两端颜色为互补色（如红色与绿色），中段颜色通常较浅；可以强调中间值域，并且使得两端的数据一目了然，适合偏重极值和中间值的数据  
-  ![离散](images/d-diverging.png)
-  
-  - **序列型**色系 Sequential  
-  一般是同一色调（Hue）的由浅及深或由深至浅；数值较小用浅色，较大用深色，适合单一主题、比重比较平均的数  
-  ![序列](images/d-sequential.png)
-  
-  - **分类型**色系 Qualitative/Categorical  
-  分类型的每种颜色都“各不相关”，采用不同色调；适合用来区分不同种类下的数据，如区分土地用途
-  ![分类](images/d-qualitative.png)
-  
-  - **ColorBrewer** [演示][http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3]
+- 设计的**可及性**
+  - 好的设计“触及”所有人，如考虑颜色是否对色弱人群友好、网站可搜度[等等](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
+  - 腾讯，[设计关怀](https://cdc.tencent.com/2011/03/09/%E7%89%B9%E6%AE%8A%E4%BA%BA%E7%BE%A4%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%85%B3%E6%80%80/)
   
 </details>
 
