@@ -1,3 +1,35 @@
+### Week 4-5
+
+<details>
+  <summary>展开</summary>
+  
+  #### 色彩基础
+  - **原色、间色、复色**
+    - 原色 Primary Colors  
+    指不能透过其他颜色混合调配而得出的“基本色”，三原色“红、黄、蓝”
+    - 间色/二次色 Secondary Colors  
+    由两种等量的原色混合而成，如橙=红+黄、紫=红+蓝、绿=蓝+黄
+    - 复色/第三色 Tertiary Colors  
+    由色轮上的间色与其相邻的原色混合而成，如黄橙色、蓝紫色
+    - 互补色 Complementary Colors  
+    色轮上二次色与其正对面的原色为互补色，如红色与绿色、蓝色与橙色
+  - **色彩三属性**：色相、饱和度、明度
+    - 色相 Hue  
+    简单来说，就是色轮上的12种颜色，如红色，黄色
+    - 饱和度/色度 Saturation  
+    指某个颜色的强度，数值越高色彩越纯，低则逐渐变灰
+    - 明度/亮度 Value  
+    指颜色的亮度：往一个颜色里加白色，明度就提高；反之加黑色，明度降低。两个极端就是黑、白两色
+  
+  #### 色彩搭配思路
+  - 单色 Monochromatic
+  ![monochromatic](images/c-mono.jpeg)
+  - 类似 Analogous
+  - 互补 Complementary
+  - 等边互补 Split Complementary
+  
+</details>
+
 ### Week 3
 
 <details>
