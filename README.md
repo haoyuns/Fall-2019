@@ -1,6 +1,27 @@
 ### Week 4-5
 
 <details>
+  <summary>作业</summary>
+
+内容（（`10月29日中午前`提交））
+- 以“垃圾”为题搜集数据和资料，**不限角度和数据量、国内/国外的数据集都可以用**
+- 经过资料整合和数据分析后，以图文的形式呈现议题（图表 < 3张，文字 300-800 字）
+- markdown文档应包括：
+  - 最终的图文呈现（1）
+  - 过程步骤（2）：数据来源；过程中参考的资料、数据收集过程；数据分析和呈现的步骤
+  - 选择报道角度的思考过程（3）
+- 制图不限所用工具
+
+评分标准
+- 切入“垃圾”这个议题的角度（信息搜集、整合能力）
+- 数据选择的合理性（对数据的理解）
+- 制图的质量（呈现能力）
+- 篇幅精简、直击重点，参考：[Graphic Detail](https://www.economist.com/graphic-detail/2019/10/21/how-medicaid-reduces-evictions)，即不用面面俱到，而是言之有物  
+<img src="images/eco.png" width="300">
+  
+</details>
+  
+<details>
   <summary>色彩</summary>
  
 #### [色彩基础](https://www.bilibili.com/video/av12369672/)
