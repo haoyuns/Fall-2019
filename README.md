@@ -92,7 +92,7 @@
 <details>
   <summary>字体、排版</summary>
 
-#### [字体基础](https://www.bilibili.com/video/av12368230/)
+#### 排版与[字体基础](https://www.bilibili.com/video/av12368230/)
 - 衬线、非衬线体
   - Serif
   - Sans Serif
@@ -101,11 +101,12 @@
   - Kerning
   - Tracking
   
-- 排版
-  - Proximity
-  - Alignment
-  - Constrast
-  - Repitition
+- **排版原则**
+  - 亲密性 Proximity
+  - 对齐性 Alignment
+  - 对比性 Constrast
+  - 重复性 Repitition
+  - 留白与“降噪”
   
 </details>
 
