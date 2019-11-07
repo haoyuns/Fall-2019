@@ -1,3 +1,35 @@
+### Week 6
+
+<details>
+  <summary>本周作业</summary>
+  
+##### `11月13日中午前`提交
+
+- 形式：图文（图最多两张，文字不超过1000字）
+- 新闻由头：https://m.thepaper.cn/newsDetail_forward_4791263
+- 关键词:未成年人保护法、未成年人犯罪
+- 考核点：信息/数据搜集能力，资料消化、内容梳理能力。制作过程详细，言之有物、逻辑自洽。
+- 提交的markdown文档应包括：
+  - 最终的图文呈现（1）
+  - 过程步骤（2）：信息/数据搜集、选题角度确立的过程；数据分析和呈现的考虑与步骤
+  - 信息/数据来源链接（3）
+
+</details>
+
+<details>
+  <summary>什么是合适的图表</summary>
+
+#### 什么样的图表适合我的数据？
+- 方式一：从图表类型起步 Top-down
+  - FT Visual Vocalbulary[《金融时报》图表指南](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary-chinese-simplified.pdf)
+  - Chart Suggestions — A [Thought-Starter](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf)
+- 方式二：Bottom-up
+
+#### 怎样优化图表？
+1. 总原则：要呈现给读者的是故事，不是数据
+
+</details>
+
 ### Week 4-5
 
 <details>
