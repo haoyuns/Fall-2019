@@ -292,6 +292,8 @@ Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 
 </details>
 
+---
+
 ### Week 2
 
 <details>
@@ -362,6 +364,8 @@ Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 
 </details>
 
+---
+
 ### Week 1
 
 <details>
@@ -387,7 +391,9 @@ Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 5. 在同一个 markdown 文档里回答：你认为日常生活中哪些数据是被搜集的？被谁搜集了？
 
 </details>
- 
+
+---
+
 #### 课程目标
 - 锻炼信息获取、辨别及核实的能力
 - 锻炼数据处理及分析的能力
