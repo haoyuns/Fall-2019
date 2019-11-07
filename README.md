@@ -90,6 +90,8 @@
 
 </details>
 
+---
+
 ### Week 4-5
 
 <details>
@@ -223,6 +225,8 @@
   - 腾讯，[设计关怀](https://cdc.tencent.com/2011/03/09/%E7%89%B9%E6%AE%8A%E4%BA%BA%E7%BE%A4%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%85%B3%E6%80%80/)
   
 </details>
+
+---
 
 ### Week 3
 
