@@ -27,7 +27,14 @@
 - 方式一：从图表类型起步 Top-down
   - FT Visual Vocalbulary[《金融时报》图表指南](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary-chinese-simplified.pdf)
   - Chart Suggestions — A [Thought-Starter](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf)
+  - 数据可视化工具[目录](https://datavizcatalogue.com/ZH/)
+
 - 方式二：Bottom-up
+  - 从元素起步
+  - 尝试不同的表现形式  
+  <img src="images/elements.png" width="600">
+
+  
 
 #### 怎样优化图表？
 
