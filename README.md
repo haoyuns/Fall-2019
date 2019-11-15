@@ -19,7 +19,57 @@
 
 #### 看作品的思考角度
 
-它的
+下面这些功能，它有哪些？
+- 展示
+- 比较
+- 组织
+- 关联
+
+#### 形式和功能的取舍
+- 重形式派代表：`Nigel Holmes`
+  - http://www.nigelholmes.com
+  - 幽默的力量 Using humor to inform
+  - “通常，让读者开心的成分有助于他们记住你的图表”
+  - 演讲：https://www.youtube.com/watch?v=WB7DCEayj3w
+
+- 重功能派代表：`Edward Tufte`
+  - https://www.edwardtufte.com/
+  - 数据—油墨比 data-ink ratio（印刷时代）
+  - YouTube频道：https://www.youtube.com/user/EdwardTufte
+  
+- **形式常常受制于功能，但你依然拥有选择权**
+  - 可视化轮盘
+  - 抽象/模拟，实用/修饰，致密/稀疏，多维/一维，创新/通用，简洁/冗余
+  - 灵活选择，不要刻板
+
+</details>
+
+<details>
+  <summary>R</summary>
+
+#### 操作
+
+1. 设置工作环境
+2. 安装、运行R程序包
+3. 在R里寻求帮助
+4. 使用R程序包自带的例子、演示和数据
+
+#### 基本点
+- 代码的**大小写**很重要，写命令时尤其要注意
+- **符号**
+  - `>` 代表一段 R 程序的开始  
+  - `+` 是续行符，当一段程序在某一行没有完整显示时，会折到下一行，此时 R 会以 `+` 来表示程序语句在继续
+  - `#` 代表注释，即不会被执行的语句（但写给自己和合作者看很有用）
+- 函数基本语法
+  - `函数名字(参数1, 参数2, … )`
+  - 这里的括号 `()` 代表函数内容，而 `,` 分隔参数设定
+- Tab 键和 Esc 键
+  - `Tab` 可以引导你写完函数
+  - `Esc` 可以让你退出代码的黑洞
+
+#### 学习资料
+- 各种教程、教材：https://bookdown.org/
+- 谢益辉《现代统计图形》：https://bookdown.org/xiangyun/msg/history.html
 
 </details>
 
