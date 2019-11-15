@@ -70,6 +70,7 @@
 #### 学习资料
 - 各种教程、教材：https://bookdown.org/
 - 谢益辉《现代统计图形》：https://bookdown.org/xiangyun/msg/history.html
+- Web Scraper: https://www.webscraper.io/
 
 </details>
 
