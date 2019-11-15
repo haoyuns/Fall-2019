@@ -11,6 +11,10 @@
   - 考核点：信息/数据搜集、呈现逻辑、内容梳理、作品美感
   - 加分项：数据获取难度（例，因公共议题向政府部门索要未公开数据）
   - 提交日期：不晚于12月20日
+  
+##### 不用提交、全靠自觉的练习
+- 用 Web Scraper 抓取网站，如：http://ldzl.people.com.cn/dfzlk/front/firstPage.htm
+- 熟悉 RStudio 界面及基础指令
 
 </details>
 
