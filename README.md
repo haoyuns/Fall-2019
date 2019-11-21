@@ -90,14 +90,14 @@ head(mpg, 10)
 通过代码 `?mgp`，我们可以知道几个变量的意思
 - manufacturer：制造商
 - model：汽车型号
-- trans：自动档还是手动档
+- trans：自动档、手动档
 - drv：前驱 front-wheel drive、后驱 rear wheel、还是四驱 4wd
-- cty：城市里，每加仑行驶里程数 city miles per gallon
+- cty：城市耗油量（英里/加仑），city miles per gallon
 
 接下来要用到的变量为：
 - displ：发动机排量（升），engine displacement
-- hwy：高速公路上，每加仑行驶里程数 highway miles per gallon
-- cyl：气缸数，cylinders
+- hwy：高速公路耗油量（英里/加仑），highway miles per gallon
+- cyl：气缸数量，cylinders
 
 **背景知识**──我国轿车级别根据排量大小来决定：  
 追求高性能汽车的大都选择大排量发动机，经济型则选用小排量的发动机。
