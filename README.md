@@ -1,3 +1,29 @@
+### Week 9
+
+<details>
+  <summary>本周作业</summary>
+  
+##### `11月26日中午前`提交
+- 任选自己在“垃圾”或“未成年人犯罪”两次作业里做过的**两张**图（及数据）
+- 使用ggplot2复刻（或重新制作）
+- 提交的 markdown 里包括1️⃣原图和ggplot图 2️⃣实现用的代码
+- 考核点：在 R 里导入数据，用 ggplot2 进行基础绘图
+- **如果你用 python 能复刻，提交 python 代码也行**
+
+</details>
+
+<details>
+  <summary>R</summary>
+
+##### 在 R 里导入数据
+
+##### 图形语法 Grammar of graphics
+
+##### 做图示例及导出
+
+
+<details>
+
 ### Week 7-8
 
 <details>
