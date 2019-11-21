@@ -20,6 +20,8 @@
 
 - 由下而上 bottom-up：ggplot2 包的特点在于不去定义具体的图形（如直方图，散点图），而是定义底层组件（如线条、方块）来合成复杂的图形，这使它能以非常简洁的函数构建各类图形。
 
+<img src="images/ggplot1.png" width="600">
+
 #### 图形包括什么？
 - 图层的集合 Layers
 - 标度的集合 Scales
@@ -40,23 +42,60 @@ Adobe 软件的使用者对图层不会陌生。
 4. 分面（Facet）：  
 很多时候需要将数据按某种方法分组，分别进行绘图。分面控制分组绘图的方法和排列形式。
 
-```
+<img src="images/ggplot2.png" width="600">
 
-#设置工作环境
-setwd("~/Desktop")
-#安装、导入 ggplot2
-install.packages("ggplot2")
-library(ggplot2)
-
-```
 
 ### 实操练习
 
+```r
+
+# 首先设置工作环境
+setwd("~/Desktop")
+
+```
+
 #### 在 R 里导入数据
 - 导入csv或excel文件
+
+```r
+
+# 读取 csv 格式数据
+ramen <- read.csv("ramen.csv")
+
+# 如果第一行没有每列的名称
+ramen <- read.csv("ramen.csv", header = FALSE)
+
+# 读取 excel 文件，需要安装 readxl 这个包
+install.packages("readxl")
+library(readxl)
+ramen <- read_excel("ramen.xlsx")
+
+# 假设文件中有多张表
+ramen <- read_excel("ramen.xlsx", sheet = 2)
+
+```
+
 - 利用api接口导入（tushare包）
 
+```r
+# 安装、导入 Tushare 包
+install.packages("Tushare")
+library(Tushare)
+
+# 使用你自己的token
+api <- Tushare::pro_api(token = '你的token可以从 个人主页-接口TOKEN 里复制到这里')
+
+# 只调用api接口，看看“股票列表”数据什么样子
+api(api_name = 'stock_basic')
+
+# 获取日线行情
+api(api_name = 'daily', ts_code='002069.SZ', start_date='20191030', end_date='20191115')
+
+```
+
 #### 做图示例及导出
+
+
 
 
 ### 相关书籍
