@@ -50,33 +50,99 @@ Adobe 软件的使用者对图层不会陌生。
 - 统计变换 statistical transformation `stat`参数
 - 位置调整 position adjustment `position`参数
 
-```r
-# 安装、载入 ggplot2 包
-install.packages("ggplot2")
-library(ggplot2)
+**以 mpg 数据集为例**
 
-# 使用自带的 mpg 数据集
+**问题1：**mpg 是什么数据集？
+
+```r
+# 查看 mpg 数据
 View(mpg)
 
 # 或看看数据集前10行
 head(mpg, 10)
 ```
-结果
-
-```r
-# 几个变量：
-p <- ggplot(data=mpg,aes(x=displ,y=hwy,colour=factor(cyl)))
-p + geom_point() + geom_smooth()
-# 使用 
+得到
 
 ```
+# A tibble: 10 x 11
+   manufacturer model displ  year   cyl trans drv     cty   hwy fl   
+   <chr>        <chr> <dbl> <int> <int> <chr> <chr> <int> <int> <chr>
+ 1 audi         a4      1.8  1999     4 auto… f        18    29 p    
+ 2 audi         a4      1.8  1999     4 manu… f        21    29 p    
+ 3 audi         a4      2    2008     4 manu… f        20    31 p    
+ 4 audi         a4      2    2008     4 auto… f        21    30 p    
+ 5 audi         a4      2.8  1999     6 auto… f        16    26 p    
+ 6 audi         a4      2.8  1999     6 manu… f        18    26 p    
+ 7 audi         a4      3.1  2008     6 auto… f        18    27 p    
+ 8 audi         a4 q…   1.8  1999     4 manu… 4        18    26 p    
+ 9 audi         a4 q…   1.8  1999     4 auto… 4        16    25 p    
+10 audi         a4 q…   2    2008     4 manu… 4        20    28 p    
+# … with 1 more variable: class <chr>
+
+```
+通过 `?mgp`，我们可以知道几个变量的意思
+- manufacturer：制造商
+- model：汽车型号
+- trans：自动档还是手动档
+- drv：前驱 front-wheel drive、后驱 rear wheel、还是四驱 4wd
+- cty：城市里，每加仑行驶里程数 city miles per gallon
+
+接下来要用到的变量为：
+- displ：发动机排量（升），engine displacement
+- hwy：高速公路上，每加仑行驶里程数 highway miles per gallon
+- cyl：气缸数，cylinders
+
+背景知识，我国轿车级别根据排量大小来决定：
+- 微型车排量 ≤ 1.0L
+- 普通车排量 1-1.6L
+- 中级车排量 1.6-2.5L
+- 中高级车排量 2.5-4L
+- 高级车排量 > 4L
+追求高性能汽车的大都选择大排量发动机，经济型则选用小排量的发动机。
+
+**问题2：**排量越大的车子，一般油耗越高，但它们的关系是否这么简单？
+
+在认识完数据集后，首先加载ggplot2包
+
+```r
+# 安装、载入 ggplot2 包
+install.packages("ggplot2")
+library(ggplot2)
+```
+
+然后用 ggplot 定义数据来源，其中aes参数非常关键
+
+```
+# 它把 发动机排量 (displ) 映射到X轴
+# 它把 高速公路每加仑里程数 (hwy) 映射到Y轴
+# 它把 气缸数量 (cyl) 变为分类数据后，映射为不同的颜色
+
+p <- ggplot(data = mpg,aes(x = displ,y = hwy,colour = factor(cyl)))
+p
+```
+
+运行 `p` 后我们得到了初始图层 Layer 的样子：
+<img src="images/mpg1.png" width="600">
+
+使用 `+` 号继续叠加图层：
+- `geom_point`加上了几何对象（散点）图层
+- `geom_smooth`加上了平滑曲线
+
+```r
+p + geom_point() + geom_smooth()
+
+# 不明白的时候随时用 ?geom_smooth 等代码看 R 里的帮助
+```
+
+我们得到了几个图层叠加后的图形：
+<img src="images/mpg2.png" width="600">
 
 </details>
 
 <details>
-  <summary>实操练习</summary>
+  <summary>在 R 里导入数据</summary>
   
-#### 在 R 里导入数据
+#### 导入数据
 
 ```r
 
@@ -125,11 +191,18 @@ zzd <- api(api_name = 'daily', ts_code='002069.SZ', start_date='20191030', end_d
 write.csv(zzd, file="zzd-daily-20191030-20191115.csv")
 
 ```
+</details>
 
-#### 做图示例及导出
+<details>
+  <summary>做图示例及导出</summary>
 
+</details>
 
-### 相关书籍
+<details>
+  <summary>相关书籍</summary>
+  
+**如果本周作业遇到困难，建议直接看第一或第三个的案例及代码**
+  
 - R Graphics Cookbook: https://r-graphics.org/
 - 《ggplot2：数据分析与图形艺术》
 - 《现代统计图形》：https://bookdown.org/xiangyun/msg/
