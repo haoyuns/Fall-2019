@@ -50,18 +50,25 @@ Adobe 软件的使用者对图层不会陌生。
 - 统计变换 statistical transformation `stat`参数
 - 位置调整 position adjustment `position`参数
 
-**以 mpg 数据集为例**
+</details>
 
-**问题1：**mpg 是什么数据集？
+<details>
+  <summary>图形语法简介：以 mpg 数据集为例</summary>
+
+**问题1：mpg 是什么数据集？**
 
 ```r
+# 安装、载入 ggplot2 包
+install.packages("ggplot2")
+library(ggplot2)
+
 # 查看 mpg 数据
 View(mpg)
 
 # 或看看数据集前10行
 head(mpg, 10)
 ```
-得到
+得到：
 
 ```
 # A tibble: 10 x 11
@@ -78,9 +85,9 @@ head(mpg, 10)
  9 audi         a4 q…   1.8  1999     4 auto… 4        16    25 p    
 10 audi         a4 q…   2    2008     4 manu… 4        20    28 p    
 # … with 1 more variable: class <chr>
-
 ```
-通过 `?mgp`，我们可以知道几个变量的意思
+
+通过代码 `?mgp`，我们可以知道几个变量的意思
 - manufacturer：制造商
 - model：汽车型号
 - trans：自动档还是手动档
@@ -92,25 +99,19 @@ head(mpg, 10)
 - hwy：高速公路上，每加仑行驶里程数 highway miles per gallon
 - cyl：气缸数，cylinders
 
-背景知识，我国轿车级别根据排量大小来决定：
+**背景知识**──我国轿车级别根据排量大小来决定：  
+追求高性能汽车的大都选择大排量发动机，经济型则选用小排量的发动机。
+
 - 微型车排量 ≤ 1.0L
 - 普通车排量 1-1.6L
 - 中级车排量 1.6-2.5L
 - 中高级车排量 2.5-4L
 - 高级车排量 > 4L
-追求高性能汽车的大都选择大排量发动机，经济型则选用小排量的发动机。
 
-**问题2：**排量越大的车子，一般油耗越高，但它们的关系是否这么简单？
 
-在认识完数据集后，首先加载ggplot2包
+**问题2：排量越大的车子，一般油耗越高，但它们的关系是否这么简单？**
 
-```r
-# 安装、载入 ggplot2 包
-install.packages("ggplot2")
-library(ggplot2)
-```
-
-然后用 ggplot 定义数据来源，其中aes参数非常关键
+认识完了 mpg 数据集，首先用 ggplot 定义数据来源，其中aes参数非常关键：
 
 ```
 # 它把 发动机排量 (displ) 映射到X轴
@@ -140,7 +141,7 @@ p + geom_point() + geom_smooth()
 </details>
 
 <details>
-  <summary>在 R 里导入数据</summary>
+  <summary>实操1:在 R 里导入数据</summary>
   
 #### 导入数据
 
@@ -194,7 +195,7 @@ write.csv(zzd, file="zzd-daily-20191030-20191115.csv")
 </details>
 
 <details>
-  <summary>做图示例及导出</summary>
+  <summary>实操2:各种图形示例</summary>
 
 </details>
 
