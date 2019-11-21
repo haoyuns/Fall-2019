@@ -139,6 +139,15 @@ p + geom_point() + geom_smooth()
 
 <img src="images/mpg2.png" width="600">
 
+**油耗和排量、气缸的关系是？
+
+#### 问题3：下面的代码是什么意思？
+
+```r
+p <- ggplot(mpg, aes(x = displ,y = hwy))
+p + geom_point(aes(colour = factor(cyl))) + geom_smooth()
+```
+
 </details>
 
 <details>
