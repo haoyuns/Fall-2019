@@ -54,8 +54,8 @@ Adobe 软件的使用者对图层不会陌生。
 
 <details>
   <summary>图形语法简介：以 mpg 数据集为例</summary>
-
-**问题1：mpg 是什么数据集？**
+  
+#### 问题1：mpg 是什么数据集？
 
 ```r
 # 安装、载入 ggplot2 包
@@ -109,9 +109,9 @@ head(mpg, 10)
 - 高级车排量 > 4L
 
 
-**问题2：排量越大的车子，一般油耗越高，但它们的关系是否这么简单？**
+#### 问题2：排量越大的车子，一般油耗越高，但它们的关系是否这么简单？**
 
-认识完了 mpg 数据集，首先用 ggplot 定义数据来源，其中aes参数非常关键：
+认识完了 mpg 数据集，首先用 ggplot 定义数据来源，其中 `aes` 参数非常关键：
 
 ```
 # 它把 发动机排量 (displ) 映射到X轴
@@ -122,7 +122,7 @@ p <- ggplot(data = mpg,aes(x = displ,y = hwy,colour = factor(cyl)))
 p
 ```
 
-运行 `p` 后我们得到了初始图层 Layer 的样子：
+运行 `p` 后我们得到了初始图层 (Layer) 的样子：
 <img src="images/mpg1.png" width="600">
 
 使用 `+` 号继续叠加图层：
@@ -136,6 +136,7 @@ p + geom_point() + geom_smooth()
 ```
 
 我们得到了几个图层叠加后的图形：
+
 <img src="images/mpg2.png" width="600">
 
 </details>
@@ -202,11 +203,11 @@ write.csv(zzd, file="zzd-daily-20191030-20191115.csv")
 <details>
   <summary>相关书籍</summary>
   
-**如果本周作业遇到困难，建议直接看第一或第三个的案例及代码**
+#### 如果本周作业遇到困难，建议直接看1️⃣或3️⃣的案例及代码
   
-- R Graphics Cookbook: https://r-graphics.org/
-- 《ggplot2：数据分析与图形艺术》
-- 《现代统计图形》：https://bookdown.org/xiangyun/msg/
+1. R Graphics Cookbook: https://r-graphics.org/
+2. 《ggplot2：数据分析与图形艺术》
+3. 《现代统计图形》：https://bookdown.org/xiangyun/msg/
 
 </details>
 
