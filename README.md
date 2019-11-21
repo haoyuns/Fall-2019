@@ -92,11 +92,11 @@ head(mpg, 10)
 - model：汽车型号
 - trans：自动档、手动档
 - drv：前驱 front-wheel drive、后驱 rear wheel、还是四驱 4wd
-- cty：城市耗油量（英里/加仑），city miles per gallon
+- cty：城市里，一升油能跑多少里程（英里/加仑），city miles per gallon
 
 接下来要用到的变量为：
 - displ：发动机排量（升），engine displacement
-- hwy：高速公路耗油量（英里/加仑），highway miles per gallon
+- hwy：高速公路上，一升油能跑多少里程（英里/加仑），highway miles per gallon
 - cyl：气缸数量，cylinders
 
 **背景知识**──我国轿车级别根据排量大小来决定：  
