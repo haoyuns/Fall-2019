@@ -46,7 +46,7 @@ Adobe 软件的使用者对图层不会陌生。
 #### 图层 Layers 里有什么？
 - 图形属性与数据的映射（包括颜色、形状、大小等） aesthetic mappings `aes`参数
 - 几何对象（包括点 points、线 lines、条 bars等） geometric object `geom`参数  
-几何对象决定图形的类型 (type)
+几何对象决定图形渲染成什么类型，折线？直方图？散点图？等等
 - 统计变换 statistical transformation `stat`参数
 - 位置调整 position adjustment `position`参数
 
@@ -111,7 +111,7 @@ head(mpg, 10)
 
 #### 问题2：排量越大的车子，一般油耗越高，但它们的关系是否这么简单？**
 
-认识完了 mpg 数据集，首先用 ggplot 定义数据来源，其中 `aes` 参数非常关键：
+认识完了 mpg 数据集，首先用 `ggplot()` 来定义数据源，其中 `aes` （图形属性）参数非常关键：
 
 ```
 # 它把 发动机排量 (displ) 映射到X轴
@@ -126,8 +126,8 @@ p
 <img src="images/mpg1.png" width="600">
 
 使用 `+` 号继续叠加图层：
-- `geom_point`加上了几何对象（散点）图层
-- `geom_smooth`加上了平滑曲线
+- `geom_point()`加上了几何对象（散点）图层
+- `geom_smooth()`加上了平滑曲线
 
 ```r
 p + geom_point() + geom_smooth()
@@ -206,6 +206,13 @@ write.csv(zzd, file="zzd-daily-20191030-20191115.csv")
 
 <details>
   <summary>实操2:各种图形示例</summary>
+  
+#### 打开 R Graphics [Cookbook](https://r-graphics.org)
+
+1. 柱状图
+2. 折线图
+3. 散点图
+4. 直方图
 
 </details>
 
