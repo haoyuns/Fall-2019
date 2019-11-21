@@ -5,47 +5,78 @@
   
 ##### `11月26日中午前`提交
 - 任选自己在“垃圾”或“未成年人犯罪”两次作业里做过的**两张**图（及数据）
-- 使用ggplot2复刻（或重新制作）
+- 使用ggplot2复刻/重新制作后导出（不用在其他软件里修饰）
 - 提交的 markdown 里包括1️⃣之前的原图和ggplot图 2️⃣实现用的代码
 - 考核点：在 R 里导入数据，用 ggplot2 进行基础绘图
-- **如果你用 python 能复刻，提交 python 代码也行**
+- **如果你更习惯写 python ，提交 python 代码也行**
 
 </details>
 
 <details>
-  <summary>R</summary>
+  <summary>图形语法简介</summary>
 
-### 图形语法 Grammar of graphics
-- 将绘图视为一种映射 (mapping)，从数学空间映射到图形元素空间，例如将不同的数值映射成不同的色彩或透明度。
+#### 图形语法 Grammar of graphics
+- 将绘图视为一种**映射** (mapping)，从数学空间映射到图形元素空间，例如将不同的数值映射成不同的色彩或透明度。
 
-- 由下而上 bottom-up：ggplot2 包的特点在于不去定义具体的图形（如直方图，散点图），而是定义底层组件（如线条、方块）来合成复杂的图形，这使它能以非常简洁的函数构建各类图形。
+- 由下而上 **bottom-up**：  
+ggplot2 包的特点在于不去定义具体的图形（如直方图，散点图），**而是定义底层组件（如线条、方块）来合成复杂的图形**，这使它能以非常简洁的函数构建各类图形。
 
-<img src="images/ggplot1.png" width="600">
+<img src="images/ggplot1.png" width="800">
 
-#### 图形包括什么？
+#### “图形”包括什么？
 - 图层的集合 Layers
 - 标度的集合 Scales
 - 坐标系统 Coordiates
 - 分面 Facets
 
-#### 基础概念
-1. 图层（Layer）：
+**基础概念**
+1. 图层 (Layer)：
 Adobe 软件的使用者对图层不会陌生。  
 一个图层好比是一张玻璃纸，包含有各种图形元素，你可以分别建立图层然后叠放在一起，组合成图形的最终效果。图层可以允许用户一步步的构建图形，方便单独对图层进行修改、增加统计量、甚至改动数据。
 
-2. 标度（Scale）：  
-标度控制了数学空间到图形元素空间的映射。一组分类数据可以映射成为不同的形状，也可以映射成为不同的大小或不同的颜色。
+2. 标度 (Scale)：  
+把数据单位转换成电脑可以识别的物理单位，这个过程被称之为**标度变换**。一组分类数据可以映射成为不同的形状，也可以映射成为不同的大小或不同的颜色。
 
-3. 坐标系统（Coordinate）：  
+3. 坐标系统 (Coordinate)：  
 坐标系统控制了图形的坐标轴并影响所有图形元素，最常用的是直角坐标轴。
 
-4. 分面（Facet）：  
+4. 分面 (Facet)：  
 很多时候需要将数据按某种方法分组，分别进行绘图。分面控制分组绘图的方法和排列形式。
 
-<img src="images/ggplot2.png" width="600">
+#### 图层 Layers 里有什么？
+- 图形属性与数据的映射（包括颜色、形状、大小等） aesthetic mappings `aes`参数
+- 几何对象（包括点 points、线 lines、条 bars等） geometric object `geom`参数  
+几何对象决定图形的类型 (type)
+- 统计变换 statistical transformation `stat`参数
+- 位置调整 position adjustment `position`参数
 
+```r
+# 安装、载入 ggplot2 包
+install.packages("ggplot2")
+library(ggplot2)
 
-### 实操练习
+# 使用自带的 mpg 数据集
+View(mpg)
+
+# 或看看数据集前10行
+head(mpg, 10)
+```
+结果
+
+```r
+# 几个变量：
+p <- ggplot(data=mpg,aes(x=displ,y=hwy,colour=factor(cyl)))
+p + geom_point() + geom_smooth()
+# 使用 
+
+```
+
+</details>
+
+<details>
+  <summary>实操练习</summary>
+  
+#### 在 R 里导入数据
 
 ```r
 
@@ -54,8 +85,7 @@ setwd("~/Desktop")
 
 ```
 
-#### 在 R 里导入数据
-- 导入csv或excel文件
+例1:导入csv或excel文件
 
 ```r
 
@@ -75,7 +105,7 @@ ramen <- read_excel("ramen.xlsx", sheet = 2)
 
 ```
 
-- 利用api接口导入（tushare包）
+例2:利用api接口导入（以 [Tushare](https://tushare.pro/register?reg=129250) 包为例）
 
 ```r
 # 安装、导入 Tushare 包
@@ -89,13 +119,14 @@ api <- Tushare::pro_api(token = '你的token可以从 个人主页-接口TOKEN �
 api(api_name = 'stock_basic')
 
 # 获取日线行情
-api(api_name = 'daily', ts_code='002069.SZ', start_date='20191030', end_date='20191115')
+zzd <- api(api_name = 'daily', ts_code='002069.SZ', start_date='20191030', end_date='20191115')
+
+# 存取数据
+write.csv(zzd, file="zzd-daily-20191030-20191115.csv")
 
 ```
 
 #### 做图示例及导出
-
-
 
 
 ### 相关书籍
