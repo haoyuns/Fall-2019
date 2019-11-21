@@ -151,7 +151,7 @@ p + geom_point(aes(colour = factor(cyl))) + geom_smooth()
 </details>
 
 <details>
-  <summary>实操1:在 R 里导入数据</summary>
+  <summary>实操1：在 R 里导入数据</summary>
   
 #### 导入数据
 
@@ -205,7 +205,7 @@ write.csv(zzd, file="zzd-daily-20191030-20191115.csv")
 </details>
 
 <details>
-  <summary>实操2:各种图形示例</summary>
+  <summary>实操2：各种图形示例</summary>
   
 #### 打开 R Graphics [Cookbook](https://r-graphics.org)
 
