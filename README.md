@@ -33,11 +33,9 @@
 - 《金融时报》，[随意举例](https://ig.ft.com/sites/visual-history-of-womens-tennis/)
 - 《经济学人》，[随意举例](https://www.economist.com/graphic-detail/2019/11/25/within-voting-precincts-migration-made-little-difference-to-donald-trumps-vote)
 
-- 很多项目的过程中都有R的身影
-	- 用 R 做的草图  
-	<img src="https://media.opennews.org/cache/0a/d0/0ad0a4a0b1cb89595287e29ec8af64a5.jpg">
-	
-	- 最终[成品](https://archive.nytimes.com/www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html)
+- 很多项目的过程中都有R的身影：用 R 做的草图及最终[成品](https://archive.nytimes.com/www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html)  
+<img src="https://media.opennews.org/cache/0a/d0/0ad0a4a0b1cb89595287e29ec8af64a5.jpg">
+
 </details>
 
 <details>
@@ -106,7 +104,7 @@
 - 为了更自由地创作，脑手合一
 - R 和生成艺术[1](https://flowingdata.com/2019/03/04/hatching-image-effect-in-r/)、[2](https://flowingdata.com/2019/09/27/detailed-generative-art-in-r/)
 - 做 ppt，在线演示
-- 做交互图表、网站
+- 做交互图表、[网站](https://rstudio.github.io/distill/website.html)
 - 做 gif [动图](https://github.com/gadenbuie/tidyexplain#gganimate)
 - Roger Peng，[更多用途](https://simplystatistics.org/2019/03/13/10-things-r-can-do-that-might-surprise-you/)
 
