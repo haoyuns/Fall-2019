@@ -25,6 +25,63 @@
 
 </details>
 
+<details>
+  <summary>R 在新闻编辑室的应用</summary>
+
+#### 部分案例
+- 《纽约时报》，Amanda Cox，“爆款”[干旱地图](https://archive.nytimes.com/www.nytimes.com/interactive/2012/07/20/us/drought-footprint.html)和small multiples
+- 《金融时报》，[随意举例](https://ig.ft.com/sites/visual-history-of-womens-tennis/)
+- 《经济学人》，[随意举例](https://www.economist.com/graphic-detail/2019/11/25/within-voting-precincts-migration-made-little-difference-to-donald-trumps-vote)
+- 很多项目的过程中都有R的身影
+	- 用 R 做的草图  
+	<img src="https://media.opennews.org/cache/0a/d0/0ad0a4a0b1cb89595287e29ec8af64a5.jpg">
+	- 最终[成品](https://archive.nytimes.com/www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html)
+
+#### Federica Fragapane 作品及过程赏析
+- 为什么要学习代码？为了更自由。  
+Federica Fragapane 作品[举例](http://visualoop.com/blog/93382/portfolio-of-the-week-federica-fragapane)
+- 过程举例
+
+#### Amanda Cox，《纽约时报》“爆款”总结（2013年的分享）
+
+总结作品件数：400件
+作品编码方式：
+1. "surprise.reveal" 出乎意料、揭露
+2. "explicitly.emotional...atmospheric" 情感、共鸣
+3. "goofy.comparison" 比较
+4. "big.breaking.news.big.breaking.news.adjacent" 突发新闻、大新闻
+5. "comprehensive...way.more.detail.than.you.actually.need" 非常复杂
+6. "useful" 有用
+7. "mostly.things.you.already.know" 大部分信息已知
+8. "difficult.topic" 话题难（战争、暴力、气候变化）
+9. "data.really.hard" 数据艰辛
+10. "design.really.hard" 设计艰辛
+11. "development.really.hard" 开发艰辛
+12. "mostly.a.bar.chart" 就是张柱状图
+13. "takeaway" 快餐型
+14. "vectory" 矢量的（？）
+15. "requires.participation" 需要交互
+16. "slideshow.video.like" 形式像交互ppt或视频
+17. "moves..non.navigation" 不用交互
+
+**入选最“爆款”作品件数：6件**
+特质：
+- "development.really.hard" 开发艰难
+- "big.breaking.news.big.breaking.news.adjacent" 大新闻
+- "useful" 有用
+- "explicitly.emotional…atmospheric" 情感
+- "surprise.reveal" 出乎意料、揭露
+- "comprehensive" 复杂
+- 话题难（战争、暴力、气候变化）的作品、快餐型作品的读者反馈都不咋的
+- 共鸣强或有用的作品大多和突发新闻有关，读者反馈很好
+- 一看就投入了更多时间做出的作品反馈也较好
+
+如何告诉读者这事儿很重要？
+- 版面篇幅
+- 花费的功夫
+
+</details>
+
 ---
 
 ### Week 9
