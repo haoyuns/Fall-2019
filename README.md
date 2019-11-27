@@ -42,6 +42,7 @@
 #### Federica Fragapane 作品及过程赏析
 - 为什么要学习代码？为了更自由：Federica Fragapane[作品](http://visualoop.com/blog/93382/portfolio-of-the-week-federica-fragapane)
 - 过程举例
+</details>
 
 <details>
   <summary>Amanda Cox 的《纽约时报》“爆款”分析</summary>
@@ -84,7 +85,7 @@
 
 **如何告诉读者这事儿很重要？**
 
-- 版面篇幅  
+- 版面篇幅，《纽约时报》[“美国每一栋建筑”](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html)  
 <img src="images/nyt.png">
 
 - 花费的功夫
