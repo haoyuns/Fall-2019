@@ -40,8 +40,17 @@
 	- 最终[成品](https://archive.nytimes.com/www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html)
 
 #### Federica Fragapane 作品及过程赏析
-- 为什么要学习代码？为了更自由：Federica Fragapane[作品](http://visualoop.com/blog/93382/portfolio-of-the-week-federica-fragapane)
+- Federica Fragapane[作品](http://visualoop.com/blog/93382/portfolio-of-the-week-federica-fragapane)
 - 过程举例
+
+**为什么要学习代码？R 还能干啥**
+- 为了更自由地创作，脑手合一
+- R 和生成艺术[1](https://flowingdata.com/2019/03/04/hatching-image-effect-in-r/)、[2](https://flowingdata.com/2019/09/27/detailed-generative-art-in-r/)
+- 做 ppt，在线演示
+- 做交互图表、网站
+- 做 gif [动图](https://github.com/gadenbuie/tidyexplain#gganimate)
+- Roger Peng，[更多用途](https://simplystatistics.org/2019/03/13/10-things-r-can-do-that-might-surprise-you/)
+
 </details>
 
 <details>
