@@ -110,6 +110,9 @@
 - 做 gif [动图](https://github.com/gadenbuie/tidyexplain#gganimate)
 - Roger Peng，[更多用途](https://simplystatistics.org/2019/03/13/10-things-r-can-do-that-might-surprise-you/)
 
+**学习R制图的代码案例库**
+- https://www.r-graph-gallery.com/index.html
+
 </details>
 
 ---
