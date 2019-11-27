@@ -29,22 +29,27 @@
   <summary>R 在新闻编辑室的应用</summary>
 
 #### 部分案例
-- 《纽约时报》，Amanda Cox，“爆款”[干旱地图](https://archive.nytimes.com/www.nytimes.com/interactive/2012/07/20/us/drought-footprint.html)和small multiples
+- 《纽约时报》，Amanda Cox，“爆款”[干旱地图](https://archive.nytimes.com/www.nytimes.com/interactive/2012/07/20/us/drought-footprint.html)和 small multiples
 - 《金融时报》，[随意举例](https://ig.ft.com/sites/visual-history-of-womens-tennis/)
 - 《经济学人》，[随意举例](https://www.economist.com/graphic-detail/2019/11/25/within-voting-precincts-migration-made-little-difference-to-donald-trumps-vote)
+
 - 很多项目的过程中都有R的身影
 	- 用 R 做的草图  
 	<img src="https://media.opennews.org/cache/0a/d0/0ad0a4a0b1cb89595287e29ec8af64a5.jpg">
+	
 	- 最终[成品](https://archive.nytimes.com/www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html)
 
 #### Federica Fragapane 作品及过程赏析
-- 为什么要学习代码？为了更自由。  
-Federica Fragapane 作品[举例](http://visualoop.com/blog/93382/portfolio-of-the-week-federica-fragapane)
+- 为什么要学习代码？为了更自由：Federica Fragapane[作品](http://visualoop.com/blog/93382/portfolio-of-the-week-federica-fragapane)
 - 过程举例
 
-#### Amanda Cox，《纽约时报》“爆款”总结（2013年的分享）
+<details>
+  <summary>Amanda Cox 的《纽约时报》“爆款”分析</summary>
+	
+#### 取自她2013年在 OpenVis 上的分享
 
 总结作品件数：400件
+
 作品编码方式：
 1. "surprise.reveal" 出乎意料、揭露
 2. "explicitly.emotional...atmospheric" 情感、共鸣
@@ -65,6 +70,7 @@ Federica Fragapane 作品[举例](http://visualoop.com/blog/93382/portfolio-of-t
 17. "moves..non.navigation" 不用交互
 
 **入选最“爆款”作品件数：6件**
+
 特质：
 - "development.really.hard" 开发艰难
 - "big.breaking.news.big.breaking.news.adjacent" 大新闻
@@ -76,8 +82,11 @@ Federica Fragapane 作品[举例](http://visualoop.com/blog/93382/portfolio-of-t
 - 共鸣强或有用的作品大多和突发新闻有关，读者反馈很好
 - 一看就投入了更多时间做出的作品反馈也较好
 
-如何告诉读者这事儿很重要？
-- 版面篇幅
+**如何告诉读者这事儿很重要？**
+
+- 版面篇幅  
+<img src="images/nyt.png">
+
 - 花费的功夫
 
 </details>
