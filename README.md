@@ -99,7 +99,7 @@
 <details>
   <summary>R</summary>
 	
-#### 为什么要学习代码？R 还能干啥**
+#### 为什么要学习代码？R 还能干啥
 
 - 为了更自由地创作，脑手合一
 - R 和生成艺术[1](https://flowingdata.com/2019/03/04/hatching-image-effect-in-r/)、[2](https://flowingdata.com/2019/09/27/detailed-generative-art-in-r/)
