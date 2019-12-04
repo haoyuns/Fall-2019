@@ -5,8 +5,6 @@
 #### 地球：almost round，“三轴椭圆体”
 对于地球测量而言，地表是一个无法用数学公式进行表达的曲面，这样的曲面不能作为制图和测量的基准
 
-<img src="images/geoid2.png" width="400">
-
 #### 大地水准面 Geoid：约等于平均海平面
 想象一下海洋仅受重力的影响静止不动，生成的表面是大地水准面的表现形式。大地水准面的提出，对大地测量带来重要的突破。但大地水准面依然无法建模
 
@@ -53,6 +51,19 @@ https://store.usgs.gov/assets/mod/storefiles/PDF/16573.pdf
 
 <details>
 	<summary>地理数据</summary>
+
+#### 空间数据是地理编码过的数据
+
+- 点
+例如：餐馆的地点，经纬度
+- 线
+例如：一条路
+- 多边形/面
+例如：国家、商业区的形状
+- 地理数据文件格式包括：  
+Excel, csv, shapefile, geojson
+
+
 </details>
 
 ---
