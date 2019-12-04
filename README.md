@@ -54,15 +54,11 @@ https://store.usgs.gov/assets/mod/storefiles/PDF/16573.pdf
 
 #### 空间数据是地理编码过的数据
 
-- 点
-例如：餐馆的地点，经纬度
-- 线
-例如：一条路
-- 多边形/面
-例如：国家、商业区的形状
+- 点，例如：餐馆的地点，经纬度
+- 线，例如：一条路
+- 多边形/面，例如：国家、商业区的形状
 - 地理数据文件格式包括：  
 Excel, csv, shapefile, geojson
-
 
 </details>
 
