@@ -15,7 +15,12 @@
 
 <img src="images/geoid3.png" width="400">
 
-#### 地图投影
+</details>
+
+<details>
+  <summary>地图投影</summary>
+
+#### 什么是地图投影？
 
 一套将三维的地球特征转换为二维显示的数学法则。投影面：平面、圆锥面、圆柱面。
 
@@ -25,7 +30,8 @@ https://store.usgs.gov/assets/mod/storefiles/PDF/16573.pdf
 <img src="images/projections.png" width="400">
 
 **常用地图投影：**
-- 墨卡托投影（Mercator），圆柱投影─等角正圆柱投影，墨卡托1569年专为航海目的而设计
+- 墨卡托投影（Mercator）  
+最常见的投影方式，属于圆柱投影─等角正圆柱投影，墨卡托1569年专为航海目的而设计。此投影的等角属性最适合用于赤道附近地区，例如印尼和太平洋部分地区。
 - 高斯-克鲁格投影（Gauss-Kruger），投影后无角度变形
 - 通用墨卡托投影（UTM），横轴等角割圆柱投影
 - 兰伯特正形圆锥投影（Lambert），等角圆锥投影，适用于中纬度
@@ -37,10 +43,10 @@ https://store.usgs.gov/assets/mod/storefiles/PDF/16573.pdf
 - 各大洲投影：亚洲和北美洲（彭纳投影）、欧洲和大洋洲（正轴等圆锥投影）、南美洲（桑逊投影）
 - 我国地图投影：全国地图（Lambert居多）、分省区（高斯-克鲁格投影居多）、大比例尺地形图（高斯-克鲁格投影）
 
-偷懒网站：http://projectionwizard.org/#
+做选择的偷懒网站：http://projectionwizard.org/#
 
 **投影变形：**
-将不可展的地球椭球面展绘到平面时产生的差异，包括长度变形、面积变形、角度变形
+将不可展平的地球椭球面绘制到平面时产生的差异，包括长度变形、面积变形、角度变形
 
 - 没有完美的投影方式！任何投影都会变形
 - 墨卡托投影变形演示：https://thetruesize.com/
@@ -54,11 +60,22 @@ https://store.usgs.gov/assets/mod/storefiles/PDF/16573.pdf
 
 #### 空间数据是地理编码过的数据
 
+矢量数据：
 - 点，例如：餐馆的地点，经纬度
 - 线，例如：一条路
 - 多边形/面，例如：国家、商业区的形状
 - 地理数据文件格式包括：  
 Excel, csv, shapefile, geojson
+
+栅格数据：
+- 卫星影像
+- 卫星影像衍生的各种数据产品
+
+#### 如何进行地理编码
+1. 手动：例如使用 geojson.io
+2. 半手动：如使用谷歌地图链接里的经纬度，或百度的[拾取坐标系统](http://api.map.baidu.com/lbsapi/getpoint/index.html)
+3. 自动：使用 API 等自动给地址编码
+
 
 </details>
 
