@@ -2,20 +2,29 @@
 <details>
   <summary>地球是什么形状</summary>
 
-#### 地球、大地水准面、椭球体
-
-- 地球：almost round，“三轴椭圆体”  
+#### 地球：almost round，“三轴椭圆体”
 对于地球测量而言，地表是一个无法用数学公式进行表达的曲面，这样的曲面不能作为制图和测量的基准
 
-- 大地水准面 Geoid：约等于平均海平面  
+<img src="images/geoid2.png" width="400">
+
+#### 大地水准面 Geoid：约等于平均海平面
 想象一下海洋仅受重力的影响静止不动，生成的表面是大地水准面的表现形式。大地水准面的提出，对大地测量带来重要的突破。但大地水准面依然无法建模
 
-- 椭球体 Ellipsoid：  
+<img src="images/geoid4.gif">
+
+#### 椭球体 Ellipsoid
 由于椭球体是通过大地水准面得出的，当具体到各个国家时，并不能完美还原当地的实际情况。所以人们在实际使用中又提出了针对各地区的参考椭球体模型
+
+<img src="images/geoid3.png" width="400">
 
 #### 地图投影
 
 一套将三维的地球特征转换为二维显示的数学法则。投影面：平面、圆锥面、圆柱面。
+
+USGS的地图投影简短介绍：
+https://store.usgs.gov/assets/mod/storefiles/PDF/16573.pdf
+
+<img src="images/projections.png" width="400">
 
 **常用地图投影：**
 - 墨卡托投影（Mercator），圆柱投影─等角正圆柱投影，墨卡托1569年专为航海目的而设计
