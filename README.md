@@ -88,6 +88,20 @@ Excel, csv, shapefile, geojson
 	-	高度（距离）则可表示平均海平面以上的表面高程，可以用来派生出坡度、坡向和流域属性
 	- 光谱值可在卫星影像和航空摄影中表示光反射系数和颜色
 
+</details>
+
+<details>
+	<summary>其他链接</summary>
+	
+- 复旦历史地理：http://yugong.fudan.edu.cn/index.php
+- 葛剑雄老师：https://book.douban.com/subject/25720918/
+- 哥大 SEDAC 数据（下载需注册）：https://sedac.ciesin.columbia.edu/
+- NASA 地球观测站，每日一图：https://earthobservatory.nasa.gov/images
+- Earth 可视化：https://earth.nullschool.net/zh-cn/about.html
+- 标准地图服务：http://bzdt.ch.mnr.gov.cn/index.html
+- OpenStreetMap：https://www.openstreetmap.org/
+- MIT Senseable City Lab：http://senseable.mit.edu/
+- 北京城市实验室：https://www.beijingcitylab.com/
 
 </details>
 
