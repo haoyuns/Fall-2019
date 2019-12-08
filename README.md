@@ -22,12 +22,14 @@
 
 #### 什么是地图投影？
 
-一套将三维的地球特征转换为二维显示的数学法则。投影面：平面、圆锥面、圆柱面。
-
-USGS的地图投影简短介绍：
+一套将三维的地球特征转换为二维显示的数学法则。USGS的地图投影简短介绍：
 https://store.usgs.gov/assets/mod/storefiles/PDF/16573.pdf
 
-<img src="images/projections.png" width="400">
+三种投影面示意：分别为平面、圆锥面、圆柱面
+
+<img src="images/projection-azimuthal.png" width="400">
+<img src="images/projection-conic.png" width="400">
+<img src="images/projection-cylindrical.png" width="400">
 
 **常用地图投影：**
 - 墨卡托投影（Mercator）  
