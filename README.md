@@ -810,14 +810,19 @@ write.csv(zzd, file="zzd-daily-20191030-20191115.csv")
 ### Week 3
 
 <details>
-  <summary>展开</summary>
+  <summary>Markdown</summary>
     
 #### 又是 Markdown
 - Markdown 诞生于2004年，由 John Gruber（在 Aaron Swartz 协助下） 创造
   - 题外话：关于 Aaron Swartz 的纪录片，[互联网之子](https://movie.douban.com/subject/25785114/ "The Internet's Own Boy")
 - 如何插入图片？如何空一行？空格有意义吗？…… 简明教程：[指令](https://commonmark.org/help/)，交互式教程（必看！）在[这里](https://commonmark.org/help/tutorial/)，可在[这个网站](https://daringfireball.net/projects/markdown/dingus)练习
 - GitHub 风味的 Markdown [说明](https://github.github.com/gfm/)
-  
+
+</details>
+
+<details>
+  <summary>资源列表</summary>
+
 #### 多看多读多听
 - **讲者**
   - Giorgia Lupi, [How we can find ourselves in data](https://www.ted.com/talks/giorgia_lupi_how_we_can_find_ourselves_in_data "TED: How we can find ourselves in data")
@@ -858,7 +863,12 @@ write.csv(zzd, file="zzd-daily-20191030-20191115.csv")
 - **数据新闻[公开课](https://journalismcourses.org/DATA0819.html)**  
 Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 
-**作业（`10月17日中午前`提交）**
+</details>
+
+<details>
+  <summary>本周作业</summary>
+
+##### 作业（`10月17日中午前`提交）
 1. 用不同的可视化工具呈现同一个数据集
 
 - 调研目前免费的可视化图表工具（国内外都得有，在线离线、交互静态都行）
@@ -876,7 +886,7 @@ Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 ### Week 2
 
 <details>
-  <summary>展开</summary>
+  <summary>数据的类型</summary>
 
 #### 数据的类型
 - 定类/名义（nominal/categorical/set of characters）：描述特征，不具有数值意义。如名字、性别、民族、车辆品牌、地点
@@ -885,6 +895,11 @@ Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 - 定比（ratio）：有绝对0点（true/meaningful zero point），一个值是另一个值的倍数或比率，可计算差、中位数、均值等。如质量、高度、速度
 - 离散（discrete）：整数
 - 连续（continuous）：小数点位数没有限制
+
+</details>
+
+<details>
+  <summary>课堂练习</summary>
 
 #### 数据录入（课堂练习1）
 - “列”对应变量，“行”对应信息录入（columns for variables & rows for observations）
@@ -904,6 +919,11 @@ Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 - 字符是英文还是中文，输入时有空格吗，有空白数据吗
 - 练习2：2017年蔬菜产量最高的10个国家是？（数据：[联合国粮农组织](http://www.fao.org/faostat/zh/?#data)）
 
+</details>
+
+<details>
+  <summary>Excel 基础</summary>
+	
 #### 数据处理
 - csv导入，文档编码与乱码 (tsv, fixed width)
 - 冻结首排，开启过滤功能
@@ -926,7 +946,12 @@ Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 - 和同仁交叉核对
 - 如果条件允许，去实地调查数据是如何被收集及记录的
 
-**作业（`10月9日前`提交）**
+</details>
+
+<details>
+  <summary>本周作业和阅读</summary>
+	
+##### 作业（`10月9日前`提交）
 1. 搜索并阅读《上海市公共数据开放暂行办法》
 2. 搜索并回答：我国还有哪些关于公共数据开放的条例或法规？国内外有哪些政府开放数据平台？（markdown文档，列出信源和链接，包括👆🏻上海这个）
 3. 在国家统计局[数据库](http://data.stats.gov.cn/index.htm)找到全国GDP数据，回答：2012-2018年各季度GDP增速（列出选取的统计指标、数据页面、计算步骤及答案）
@@ -948,7 +973,7 @@ Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 ### Week 1
 
 <details>
-  <summary>展开</summary>
+  <summary>数据的 5W & H</summary>
   
 #### 对数据的“背景调查”：Who, What, When, Where, Why, How?
 - 不管发布机构有多权威，数据都是可质疑的
@@ -957,12 +982,22 @@ Data Journalism and Visualization with Free Tools (10.14 - 11.24)
 
 #### 个人数据的价值：[Dear Data](https://www.dear-data.com/theproject "Dear Data")
 
+</details>
+
+<details>
+  <summary>Markdown 基础</summary>
+	
 #### GitHub 及 Markdown
 - GitHub Pages 主题选择：[https://pages.github.com/themes/](https://pages.github.com/themes/)
 - Markdown Cheatsheet：[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Markdown 教程：[https://www.markdowntutorial.com/](https://www.markdowntutorial.com/)
 
-**作业（`9月30日前`提交）**
+</details>
+
+<details>
+  <summary>本周作业</summary>
+	
+##### 作业（`9月30日前`提交）
 1. 收集某个主题的个人数据，不限时间，规整为数据集
 2. 参考 Dear Data 的表现方式，拓展想象力
 3. 以手绘的形式呈现第一步收集的数据（无所谓美感，能展现想法为主），纸张大小 ≥ 明信片
