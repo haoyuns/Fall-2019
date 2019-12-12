@@ -53,6 +53,17 @@
 
 </details>
 
+<details>
+  <summary>What's next?</summary>
+
+#### 多看、多想、多学
+- 数据新闻精选 Feed 列表：http://initiumlab.com/blog/20170401-data-news/
+- 学习 Coding：https://github.com/freeCodeCamp/freeCodeCamp
+- 中国大学 MOOC：https://www.icourse163.org/
+- 香港 Data & News Society：https://dnnsociety.org/
+
+</details>
+
 ---
 
 ### Week 11
