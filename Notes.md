@@ -94,8 +94,28 @@ Today, “story” and “narrative” are used less to describe the craft and m
 
 > I realize that my take here is swimming against larger cultural trends, and perhaps my creative writing background has turned me into too much of a purist.
 
-> John Schwabish: "Even though we often say we’re telling data stories, with those kinds of charts we are not telling stories, but instead making a point or elucidating an argument."
+John Schwabish: 
 
-> Cole Nussbaumer: "A good story grabs your attention and takes you on a journey, evoking an emotional response. In the middle of it, you find yourself not wanting to turn away or put it down."
+> Even though we often say we’re telling data stories, with those kinds of charts we are not telling stories, but instead making a point or elucidating an argument.
+
+Cole Nussbaumer:
+
+> A good story grabs your attention and takes you on a journey, evoking an emotional response. In the middle of it, you find yourself not wanting to turn away or put it down.
+
+#### Diluting the power of stories
+That power becomes diluted when we call everything a story. A well-organized dashboard that presents information in a logical order is more analogous to a well-written essay than a good film or novel.
+
+Stories have a logic with continuity and coherence, but logic by itself isn’t a story.
+
+> A visualization isn’t more or less powerful, beautiful, or important because it does or doesn’t tell a story.
+
+Therein lies the problem:   
+storytelling is talked about as one of the critical things every data visualization should do.   
+It’s part of how we evaluate our work, baked into many models for feedback or judging
+
+> We only care if the insights are interesting and presented in a logical flow.
+
+#### Mostly description, exposition, the rest persuation
+I would argue that the overwhelming majority of visualizations I see are descriptions or expositions, with the rest mostly falling into the category of persuasions.
 
 </details>
