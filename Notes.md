@@ -1,8 +1,10 @@
-
 [How Pew Research Center uses small multiple charts](https://medium.com/pew-research-center-decoded/how-pew-research-center-uses-small-multiple-charts-2531bfc06419)
 
 > Edward Tufte: “For a wide range of problems in data presentation, small multiples are the best design solution.”
 
+<details>
+  <summary>summary</summary>
+  
 #### Small multiples:
 A method for displaying several charts, diagrams or pictures
 - in a consistent manner
@@ -51,3 +53,49 @@ Ordering panels by some value often results in a repeating pattern that changes 
 5. Annotation/explanation
 
 <img src="https://miro.medium.com/max/2800/1*tlWZqGSDXryiTnZJaVxzIw.png">
+
+</details>
+
+
+[Is Your Data Story Actually A Story?](https://medium.com/nightingale/is-your-data-story-actually-a-story-3d1fa52394d9)
+
+>  [Pasture and Crop](https://public.tableau.com/profile/datajackalope#!/vizhome/IronViz_15561510177280/Dashboard12): the first feeder for Tableau’s 2019 Iron Viz competition
+
+<details>
+  <summary>summary</summary>
+
+#### Judges’ expectations
+
+For storytelling: presenting the information with coherence and continuity, with clear organization and a concise “so what” message.
+
+#### Self reflection
+> There aren’t any well-defined characters.
+> There isn’t a plot with impactful events.
+> You can carve out a “beginning,” a “middle,” and an “end,” but those would at best be arbitrary divisions based on logic, not a rise to a climax and a fall to a resolution.
+
+“Storytelling” is often used as a blanket statement to describe how well the information is presented in an interpretable presentation with a logical flow.
+
+Visualizations that weave emotional narratives as beautifully as a written short story.
+
+Well-defined characters.
+
+Individuals with discernible personalities and emotions, who experience and react to relatively climactic events.
+- [Music memories](https://public.tableau.com/profile/robert.janezic#!/vizhome/MusicMemories/MusicMemories)
+- [Last words](https://public.tableau.com/profile/mikevizneros#!/vizhome/lastwords/Story1)
+- [Um](https://public.tableau.com/profile/lilach.manheim#!/vizhome/AnUm____Analysis/Um____)
+
+> I spend my time zoomed out to the county level, aggregating hundreds or thousands of people and events into a single data point.
+> These “characters” lack names or personalities and, as I’ve described them, autonomy.
+
+#### Data humanism
+It’s really hard to tell a powerful story in aggregate when all of the humans and all of their lives and moments and emotions are plotted under a single data point, often represented through a behavioral variable, e.g. “sales”, or “likes”. In aggregate, we lose all the parts and pieces that make characters relatable and memorable.
+
+Today, “story” and “narrative” are used less to describe the craft and more to reference coherent flows placed within the necessary context to deliver meaning.
+
+> I realize that my take here is swimming against larger cultural trends, and perhaps my creative writing background has turned me into too much of a purist.
+
+> John Schwabish: "Even though we often say we’re telling data stories, with those kinds of charts we are not telling stories, but instead making a point or elucidating an argument."
+
+> Cole Nussbaumer: "A good story grabs your attention and takes you on a journey, evoking an emotional response. In the middle of it, you find yourself not wanting to turn away or put it down."
+
+</details>
