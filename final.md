@@ -1,5 +1,5 @@
 序号 | 期末主题 | 作品链接
------------- | ------------ | -------------
+:------------ | :------------ | :-------------
 1 | 美国校区种族多样性简介 | https://www.rpubs.com/Maxine/american_school_diversity
 2 | 9012 年，去看一场音乐节！————简述中外音乐节的发展历程 | https://mp.weixin.qq.com/s/qj_vcThanImb0SY7jsIM2w
 3 | 2020 年春节档还有 36 天“到达战场” | 
@@ -11,11 +11,11 @@
 9 | 第一届研究生入学四十周年——推免和保研的现状如何？ | 
 10 | 西乐 or 民乐？小孩子才做选择！ | https://mp.weixin.qq.com/s/fa12mQSS-87skN5nFUENLg
 11 | 实体书店不愿告别 | https://peiyiguan03.github.io/bookstore/
-12 | 从 82 岁的白雪公主到 6 岁的艾尔莎：世界需要怎样的公主？ | https://mp.weixin.qq.com/s?__biz=MzU2NDk1MzYzMw==&mid=100000030&idx=1&sn=c2fa4f513c5494f242c2850c0b688d88&chksm=7c4256504b35df461286449fb3beb5fea932e536dafaf6191e914fcdbb1839e461520e6cda20#rd
+12 | 从 82 岁的白雪公主到 6 岁的艾尔莎：世界需要怎样的公主？ | [link](https://mp.weixin.qq.com/s?__biz=MzU2NDk1MzYzMw==&mid=100000030&idx=1&sn=c2fa4f513c5494f242c2850c0b688d88&chksm=7c4256504b35df461286449fb3beb5fea932e536dafaf6191e914fcdbb1839e461520e6cda20#rd)
 13 | 悲观 or 乐观──Steam 国产游戏的生存现状 | https://mp.weixin.qq.com/s/WpSoZJWtdA3HYU3QdVXKzA
 14 |  | 
 15 | 鼠疫的前世今生 | 
-16 | “公益”字幕组的生与困 | https://mp.weixin.qq.com/s?__biz=MzUyNTQ1Nzk5MA==&mid=2247483994&idx=1&sn=8e813c2da5045b66d1459ceaf6ccc233&chksm=fa1c8d73cd6b04650bf3fead228c291428ff8440f3c174922fb76983503327e1f241448fb016&token=327327915&lang=zh_CN#rd
+16 | “公益”字幕组的生与困 | [link](https://mp.weixin.qq.com/s?__biz=MzUyNTQ1Nzk5MA==&mid=2247483994&idx=1&sn=8e813c2da5045b66d1459ceaf6ccc233&chksm=fa1c8d73cd6b04650bf3fead228c291428ff8440f3c174922fb76983503327e1f241448fb016&token=327327915&lang=zh_CN#rd)
 17 | 数据随谈 中国能源问题及解决之道 | https://mp.weixin.qq.com/s/XtvM3UkfUMiG8q94C2CUdA
 18 | 公务员考试——通向安稳生活的“平衡木” | https://mp.weixin.qq.com/s/lXn00ZfXylyUTOkXV7x3Pw
 19 | 中国电影银幕之变 | 
