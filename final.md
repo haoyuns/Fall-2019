@@ -2,7 +2,7 @@
 --- | :------ | :-------------
 1 | 美国校区种族多样性简介 | [link](https://www.rpubs.com/Maxine/american_school_diversity)
 2 | 9012 年，去看一场音乐节！————简述中外音乐节的发展历程 | [link](https://mp.weixin.qq.com/s/qj_vcThanImb0SY7jsIM2w)
-3 | 2020 年春节档还有 36 天“到达战场” | 
+3 | 2020 年春节档还有 36 天“到达战场” | [link](https://github.com/lhz837540397/homework/blob/master/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A%E9%93%BE%E6%8E%A5.md)
 4 | 高校学生资助体系：“消灭”高校“贫困人口”的主力军 | [link](https://github.com/wow-127/wow1)
 5 | 卡车超载：利益的角逐与较量 | [link](https://stopsmoking.github.io/Overload/finalproject.html)
 6 | 大家好，我是 iG 的上单 The Shy | [link](https://mp.weixin.qq.com/s/9ut7a0MOgmzGBzcnUbxJxQ)
