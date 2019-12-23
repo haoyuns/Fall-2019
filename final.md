@@ -1,5 +1,5 @@
-序号 | 期末主题 | 作品链接
-:------------ | :------------ | :-------------
+序号 | 期末主题 | 链接
+--- | :------ | :-------------
 1 | 美国校区种族多样性简介 | [link](https://www.rpubs.com/Maxine/american_school_diversity)
 2 | 9012 年，去看一场音乐节！————简述中外音乐节的发展历程 | [link](https://mp.weixin.qq.com/s/qj_vcThanImb0SY7jsIM2w)
 3 | 2020 年春节档还有 36 天“到达战场” | 
