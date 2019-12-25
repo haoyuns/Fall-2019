@@ -1,4 +1,4 @@
-序号 | 期末主题 | 链接
+序号 | 主题 | 链接
 --- | :------ | :-------------
 1 | 美国校区种族多样性简介 | [link](https://www.rpubs.com/Maxine/american_school_diversity)
 2 | 9012 年，去看一场音乐节！————简述中外音乐节的发展历程 | [link](https://mp.weixin.qq.com/s/qj_vcThanImb0SY7jsIM2w)
@@ -6,13 +6,13 @@
 4 | 高校学生资助体系：“消灭”高校“贫困人口”的主力军 | [link](https://mp.weixin.qq.com/s/TmRoGkXFUrLIOlObu16P6g)
 5 | 卡车超载：利益的角逐与较量 | [link](https://stopsmoking.github.io/Overload/finalproject.html)
 6 | 大家好，我是 iG 的上单 The Shy | [link](https://mp.weixin.qq.com/s/9ut7a0MOgmzGBzcnUbxJxQ)
-7 | 大学生离猝死还有多远？ | [link](https://github.com/G-York/Newbee2/blob/master/final.md)
+7 | 大学生离猝死还有多远？ | [link](https://github.com/G-York/final/blob/master/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A.md)
 8 |  | 
 9 | 第一届研究生入学四十周年——推免和保研的现状如何？ | [link](https://xixixi497.github.io/qimo/)
 10 | 西乐 or 民乐？小孩子才做选择！ | [link](https://mp.weixin.qq.com/s/fa12mQSS-87skN5nFUENLg)
 11 | 实体书店不愿告别 | [link](https://peiyiguan03.github.io/bookstore/)
 12 | 从 82 岁的白雪公主到 6 岁的艾尔莎：世界需要怎样的公主？ | [link](https://mp.weixin.qq.com/s?__biz=MzU2NDk1MzYzMw==&mid=100000030&idx=1&sn=c2fa4f513c5494f242c2850c0b688d88&chksm=7c4256504b35df461286449fb3beb5fea932e536dafaf6191e914fcdbb1839e461520e6cda20#rd)
-13 | 悲观 or 乐观──Steam 国产游戏的生存现状 | [link](https://mp.weixin.qq.com/s/WpSoZJWtdA3HYU3QdVXKzA)
+13 | 悲观 or 乐观── Steam 国产游戏的生存现状 | [link](https://mp.weixin.qq.com/s/WpSoZJWtdA3HYU3QdVXKzA)
 14 | 《科幻世界·译文版》与她带来的作品、作者与译者 | [link](https://www.jianshu.com/p/6d31f93bff9a)
 15 | 鼠疫的前世今生 | [link](https://github.com/RRC-c/CDYHomework/blob/master/README.md)
 16 | “公益”字幕组的生与困 | [link](https://mp.weixin.qq.com/s?__biz=MzUyNTQ1Nzk5MA==&mid=2247483994&idx=1&sn=8e813c2da5045b66d1459ceaf6ccc233&chksm=fa1c8d73cd6b04650bf3fead228c291428ff8440f3c174922fb76983503327e1f241448fb016&token=327327915&lang=zh_CN#rd)
