@@ -13,7 +13,7 @@
 11 | 实体书店不愿告别 | [link](https://peiyiguan03.github.io/bookstore/)
 12 | 从 82 岁的白雪公主到 6 岁的艾尔莎：世界需要怎样的公主？ | [link](https://mp.weixin.qq.com/s?__biz=MzU2NDk1MzYzMw==&mid=100000030&idx=1&sn=c2fa4f513c5494f242c2850c0b688d88&chksm=7c4256504b35df461286449fb3beb5fea932e536dafaf6191e914fcdbb1839e461520e6cda20#rd)
 13 | 悲观 or 乐观──Steam 国产游戏的生存现状 | [link](https://mp.weixin.qq.com/s/WpSoZJWtdA3HYU3QdVXKzA)
-14 |  | 
+14 | 《科幻世界·译文版》与她带来的作品、作者与译者 | [link](https://www.jianshu.com/p/6d31f93bff9a)
 15 | 鼠疫的前世今生 | [link](https://github.com/RRC-c/CDYHomework/blob/master/README.md)
 16 | “公益”字幕组的生与困 | [link](https://mp.weixin.qq.com/s?__biz=MzUyNTQ1Nzk5MA==&mid=2247483994&idx=1&sn=8e813c2da5045b66d1459ceaf6ccc233&chksm=fa1c8d73cd6b04650bf3fead228c291428ff8440f3c174922fb76983503327e1f241448fb016&token=327327915&lang=zh_CN#rd)
 17 | 数据随谈 中国能源问题及解决之道 | [link](https://mp.weixin.qq.com/s/XtvM3UkfUMiG8q94C2CUdA)
