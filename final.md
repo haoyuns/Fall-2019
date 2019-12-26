@@ -8,7 +8,7 @@
 6 | 大家好，我是 iG 的上单 The Shy | [link](https://mp.weixin.qq.com/s/9ut7a0MOgmzGBzcnUbxJxQ)
 7 | 大学生离猝死还有多远？ | [link](https://github.com/G-York/final/blob/master/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A.md)
 8 |  | 
-9 | 第一届研究生入学四十周年——推免和保研的现状如何？ | [link](https://xixixi497.github.io/final-homework/)
+9 | 第一届研究生入学四十周年——推免和保研的现状如何？ | [link](https://xixixi497.github.io/final)
 10 | 西乐 or 民乐？小孩子才做选择！ | [link](https://mp.weixin.qq.com/s/fa12mQSS-87skN5nFUENLg)
 11 | 实体书店不愿告别 | [link](https://peiyiguan03.github.io/bookstore/)
 12 | 从 82 岁的白雪公主到 6 岁的艾尔莎：世界需要怎样的公主？ | [link](https://mp.weixin.qq.com/s?__biz=MzU2NDk1MzYzMw==&mid=100000030&idx=1&sn=c2fa4f513c5494f242c2850c0b688d88&chksm=7c4256504b35df461286449fb3beb5fea932e536dafaf6191e914fcdbb1839e461520e6cda20#rd)
