@@ -7,7 +7,7 @@
 5 | 卡车超载：利益的角逐与较量 | [link](https://stopsmoking.github.io/Overload/finalproject.html)
 6 | 大家好，我是 iG 的上单 The Shy | [link](https://mp.weixin.qq.com/s/9ut7a0MOgmzGBzcnUbxJxQ)
 7 | 大学生离猝死还有多远？ | [link](https://github.com/G-York/final/blob/master/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A.md)
-8 |  | 
+8 | 关于卫生巾的恨与爱 | [link](https://github.com/Chenyu-Li008/Homework/blob/master/final/final.md)
 9 | 第一届研究生入学四十周年——推免和保研的现状如何？ | [link](https://xixixi497.github.io/final)
 10 | 西乐 or 民乐？小孩子才做选择！ | [link](https://mp.weixin.qq.com/s/fa12mQSS-87skN5nFUENLg)
 11 | 实体书店不愿告别 | [link](https://peiyiguan03.github.io/bookstore/)
