@@ -119,3 +119,55 @@ It’s part of how we evaluate our work, baked into many models for feedback or 
 I would argue that the overwhelming majority of visualizations I see are descriptions or expositions, with the rest mostly falling into the category of persuasions.
 
 </details>
+
+[Design and Redesign](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9)
+
+> The technique of “critique by redesign” in some ways works uniquely well in data visualization.
+
+> Criticism through redesign may be one of the most powerful tools we have for moving the field of visualization forward.
+<details>
+  <summary>summary</summary>
+
+#### Redesign examples
+
+Edward Tufte Redesign: Explosion of the Space Shuttle Challenger in 1986
+
+<img src="https://miro.medium.com/max/1450/1*iQcNh732KTyKd6qROcebhg.png">
+
+Giorgia Lupi VS Alberto Cairo Redesign
+
+<img src="https://miro.medium.com/max/1450/1*1w9irsLhPVwMdUrLPJXs-A.png">
+
+#### Advantages & disadvantages
+pros:
+- enabling an honest and direct comparison
+- convincing in a democratic way
+
+cons:
+- Tufte: no way to know decisive variables at that time
+- Cairo: only shows 50% of the data in the same space
+- unfair: removal of context, redesign without knowing any constraints
+
+> It should be clear by now that there’s no such thing as a simple redesign.
+
+#### Bridging the two cultures
+
+> On one side of the family, visualization traces its roots to art and graphic design. On the other side, it’s descended from computer graphics and the tradition of scientific experiment.
+
+- Literary and artistic fields: criticism
+- Design community: private design critique, a group of colleagues having a serious, high-level conversation
+- Science: an experiment replicable by more than one group
+- Computer graphics: apply new techniques and ideas in a well-understood context, so anyone may perform a direct comparison with previous work
+
+#### Redesign suggestions
+- Maintain rigor
+  - be explicit about the goal
+  - be honest about any simplifying assumptions
+  - finding ways to come to an understanding
+
+There are many possible goals for a visualization: to communicate data, to spur conversation, to persuade, to draw in viewers, to create an aesthetic experience.
+
+- Respect the designer
+- Respect for critics
+
+</details>
